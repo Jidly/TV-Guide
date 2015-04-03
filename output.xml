@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<timetable start="17:00" end="" interval="2" title="Fri, Apr 3 2015 7:00:01 PDT">
+	<location name="ESPNEWS" subtext="">
+		<event start="17:00" end="18:00">
+			<title>Around the Horn</title>
+			<subtitle>Season 13 Episode 83</subtitle>
+			<description><![CDATA[Season 13, Episode 83 (ESPN)]]></description>
+			<link>http://www.tvrage.com/Around_the_Horn</link>
+		</event>
+	</location>
+	<location name="CNN" subtext="">
+		<event start="17:00" end="18:00">
+			<title>The Situation Room with Wolf Blitzer</title>
+			<subtitle>Season 11 Episode 66</subtitle>
+			<description><![CDATA[Season 11, Episode 66]]></description>
+			<link>http://www.tvrage.com/The_Situation_Room</link>
+		</event>
+	</location>
+	<location name="msnbc" subtext="">
+		<event start="17:00" end="18:00">
+			<title>The Ed Show</title>
+			<subtitle>Season 07 Episode 66</subtitle>
+			<description><![CDATA[Season 7, Episode 66]]></description>
+			<link>http://www.tvrage.com/The_Ed_Show</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="17:00" end="18:00">
+			<title>The Five</title>
+			<subtitle>Season 05 Episode 67</subtitle>
+			<description><![CDATA[Season 5, Episode 67]]></description>
+			<link>http://www.tvrage.com/The_Five</link>
+		</event>
+	</location>
+	<location name="FOX SPORTS 1" subtext="">
+		<event start="17:00" end="18:00">
+			<title>America's Pregame</title>
+			<subtitle>Season 02 Episode 65</subtitle>
+			<description><![CDATA[Season 2, Episode 65]]></description>
+			<link>http://www.tvrage.com/america-s-pregame</link>
+		</event>
+	</location>
+	<location name="Bloomberg TELEVISION" subtext="">
+		<event start="17:00" end="18:00">
+			<title>With All Due Respect</title>
+			<subtitle>Season 02 Episode 66</subtitle>
+			<description><![CDATA[Season 2, Episode 66]]></description>
+			<link>http://www.tvrage.com/with-all-due-respect</link>
+		</event>
+	</location><location name="ESPN" subtext="">
+		<event start="17:30" end="18:30">
+			<title>Pardon the Interruption</title>
+			<subtitle>Season 15 Episode 75</subtitle>
+			<description><![CDATA[Season 15, Episode 75]]></description>
+			<link>http://www.tvrage.com/Pardon_the_Interruption</link>
+		</event>
+	</location>
+	<location name="NBCSN" subtext="">
+		<event start="17:30" end="18:30">
+			<title>Pro Football Talk</title>
+			<subtitle>Season 04 Episode 66</subtitle>
+			<description><![CDATA[Season 4, Episode 66]]></description>
+			<link>http://www.tvrage.com/pro-football-talk</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="18:00" end="19:00">
+			<title>Special Report with Bret Baier</title>
+			<subtitle>Season 18 Episode 67</subtitle>
+			<description><![CDATA[Season 18, Episode 67]]></description>
+			<link>http://www.tvrage.com/Special_Report_with_Bret_Baier</link>
+		</event>
+	</location>
+	<location name="ESPNEWS" subtext="">
+		<event start="18:00" end="19:00">
+			<title>ESPN FC</title>
+			<subtitle>Season 03 Episode 31</subtitle>
+			<description><![CDATA[Season 3, Episode 31]]></description>
+			<link>http://www.tvrage.com/espn-fc</link>
+		</event>
+	</location>
+	<location name="FOX SPORTS 1" subtext="">
+		<event start="18:00" end="19:00">
+			<title>NASCAR Race Hub</title>
+			<subtitle>Season 07 Episode 34</subtitle>
+			<description><![CDATA[Season 7, Episode 34]]></description>
+			<link>http://www.tvrage.com/nascar-race-hub</link>
+		</event>
+	</location>
+	<location name="msnbc" subtext="">
+		<event start="18:00" end="19:00">
+			<title>PoliticsNation</title>
+			<subtitle>Season 05 Episode 45</subtitle>
+			<description><![CDATA[Season 5, Episode 45]]></description>
+			<link>http://www.tvrage.com/politicsnation</link>
+		</event>
+	</location>
+	<location name="NBC" subtext="">
+		<event start="18:30" end="19:30">
+			<title>NBC Nightly News with Lester Holt</title>
+			<subtitle>Season 46 Episode 93</subtitle>
+			<description><![CDATA[Season 46, Episode 93]]></description>
+			<link>http://www.tvrage.com/NBC_Nightly_News</link>
+		</event>
+	</location>
+	<location name="CBS" subtext="">
+		<event start="18:30" end="19:30">
+			<title>CBS Evening News With Scott Pelley</title>
+			<subtitle>Season 68 Episode 93</subtitle>
+			<description><![CDATA[Season 68, Episode 93]]></description>
+			<link>http://www.tvrage.com/CBS_Evening_News</link>
+		</event>
+	</location>
+	<location name="ABC" subtext="">
+		<event start="18:30" end="19:30">
+			<title>ABC World News Tonight With David Muir</title>
+			<subtitle>Season 63 Episode 93</subtitle>
+			<description><![CDATA[Season 63, Episode 93]]></description>
+			<link>http://www.tvrage.com/ABC_World_News</link>
+		</event>
+	</location>
+	<location name="Cartoon Network" subtext="">
+		<event start="18:30" end="19:30">
+			<title>NinjaGo: Masters of Spinjitzu</title>
+			<subtitle>Season 04 Episode 10</subtitle>
+			<description><![CDATA[The Corridor of Elders]]></description>
+			<link>http://www.tvrage.com/LEGO_NinjaGo-Masters_of_Spinjitzu</link>
+		</event>
+	</location>
+	<location name="ESPNEWS" subtext="">
+		<event start="18:30" end="19:30">
+			<title>Olbermann</title>
+			<subtitle>Season 03 Episode 64</subtitle>
+			<description><![CDATA[Season 3, Episode 64]]></description>
+			<link>http://www.tvrage.com/olbermann</link>
+		</event>
+	</location>
+	<location name="NBCSN" subtext="">
+		<event start="18:30" end="19:30">
+			<title>NASCAR Racing K&amp;N Pro Series</title>
+			<subtitle>Season 03 Episode 02</subtitle>
+			<description><![CDATA[NASCAR Racing K&N Pro Series West: Kern 150 at Kern County Raceway Park in Bakersfield, CA (Tape del]]></description>
+			<link>http://www.tvrage.com/nascar-racing-k-n-pro-series</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="19:00" end="20:00">
+			<title>On The Record with Greta Van Susteren</title>
+			<subtitle>Season 14 Episode 67</subtitle>
+			<description><![CDATA[Season 14, Episode 67]]></description>
+			<link>http://www.tvrage.com/On_The_Record_with_Greta_Van_Susteren</link>
+		</event>
+	</location>
+	<location name="Bloomberg TELEVISION" subtext="">
+		<event start="19:00" end="20:00">
+			<title>Charlie Rose</title>
+			<subtitle>Season 24 Episode 66</subtitle>
+			<description><![CDATA[Season 24, Episode 66]]></description>
+			<link>http://www.tvrage.com/Charlie_Rose</link>
+		</event>
+	</location>
+	<location name="E!" subtext="">
+		<event start="19:00" end="20:00">
+			<title>E! News</title>
+			<subtitle>Season 25 Episode 105</subtitle>
+			<description><![CDATA[Season 25, Episode 105]]></description>
+			<link>http://www.tvrage.com/e-news</link>
+		</event>
+	</location>
+	<location name="NFL NETWORK" subtext="">
+		<event start="19:00" end="20:00">
+			<title>NFL Total Access</title>
+			<subtitle>Season 13 Episode 32</subtitle>
+			<description><![CDATA[Season 13, Episode 32]]></description>
+			<link>http://www.tvrage.com/NFL_Total_Access</link>
+		</event>
+	</location>
+	<location name="msnbc" subtext="">
+		<event start="19:00" end="20:00">
+			<title>Hardball with Chris Matthews</title>
+			<subtitle>Season 21 Episode 66</subtitle>
+			<description><![CDATA[Season 21, Episode 66]]></description>
+			<link>http://www.tvrage.com/Hardball_with_Chris_Matthews</link>
+		</event>
+	</location>
+	<location name="CNN" subtext="">
+		<event start="19:00" end="20:00">
+			<title>Erin Burnett OutFront</title>
+			<subtitle>Season 05 Episode 67</subtitle>
+			<description><![CDATA[Season 5, Episode 67]]></description>
+			<link>http://www.tvrage.com/erin-burnett-outfront</link>
+		</event>
+	</location>
+	<location name="Destination America" subtext="">
+		<event start="19:00" end="20:00">
+			<title>Impact Wrestling: Unlocked</title>
+			<subtitle>Season 01 Episode 08</subtitle>
+			<description><![CDATA[Hardy's Revenge]]></description>
+			<link>http://www.tvrage.com/shows/id-46980</link>
+		</event>
+	</location>
+	<location name="ESPNEWS" subtext="">
+		<event start="19:00" end="20:00">
+			<title>SportsNation</title>
+			<subtitle>Season 07 Episode 67</subtitle>
+			<description><![CDATA[Season 7, Episode 67]]></description>
+			<link>http://www.tvrage.com/shows/id-48102</link>
+		</event>
+	</location>
+	<location name="CBS" subtext="">
+		<event start="20:00" end="21:00">
+			<title>The Amazing Race</title>
+			<subtitle>Season 26 Episode 05</subtitle>
+			<description><![CDATA[Get in That Lederhosen, Baby]]></description>
+			<link>http://www.tvrage.com/The_Amazing_Race</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="20:00" end="21:00">
+			<title>The O'Reilly Factor</title>
+			<subtitle>Season 21 Episode 66</subtitle>
+			<description><![CDATA[Season 21, Episode 66]]></description>
+			<link>http://www.tvrage.com/The_OReilly_Factor</link>
+		</event>
+	</location>
+	<location name="CNN" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Anderson Cooper 360°</title>
+			<subtitle>Season 12 Episode 66</subtitle>
+			<description><![CDATA[Season 12, Episode 66]]></description>
+			<link>http://www.tvrage.com/anderson-cooper-360</link>
+		</event>
+	</location>
+	<location name="PBS" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Washington Week with Gwen Ifill</title>
+			<subtitle>Season 55 Episode 14</subtitle>
+			<description><![CDATA[Season 55, Episode 14]]></description>
+			<link>http://www.tvrage.com/Washington_Week</link>
+		</event>
+	</location>
+	<location name="WWE Network" subtext="">
+		<event start="20:00" end="21:00">
+			<title>WWE Superstars</title>
+			<subtitle>Season 07 Episode 08</subtitle>
+			<description><![CDATA[Season 7, Episode 8]]></description>
+			<link>http://www.tvrage.com/wwe-superstars</link>
+		</event>
+	</location>
+	<location name="NBC" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Grimm</title>
+			<subtitle>Season 04 Episode 16</subtitle>
+			<description><![CDATA[Heartbreaker]]></description>
+			<link>http://www.tvrage.com/Grimm</link>
+		</event>
+	</location>
+	<location name="ABC" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Last Man Standing</title>
+			<subtitle>Season 04 Episode 20</subtitle>
+			<description><![CDATA[Restaurant Opening]]></description>
+			<link>http://www.tvrage.com/Last_Man_Standing</link>
+		</event>
+	</location>
+	<location name="Discovery Channel" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Bering Sea Gold</title>
+			<subtitle>Season S04-Special Episode </subtitle>
+			<description><![CDATA[Dredged Up: Namby-Pamby Mugwumps]]></description>
+			<link>http://www.tvrage.com/bering-sea-gold</link>
+		</event>
+	</location>
+	<location name="Lifetime" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Bring It!</title>
+			<subtitle>Season S02-Special Episode </subtitle>
+			<description><![CDATA[Fan Chat: Don't Do It, Neva]]></description>
+			<link>http://www.tvrage.com/bring-it</link>
+		</event>
+	</location>
+	<location name="Animal Planet" subtext="">
+		<event start="20:00" end="21:00">
+			<title>The Pool Master</title>
+			<subtitle>Season S02-Special Episode </subtitle>
+			<description><![CDATA[Best Builds]]></description>
+			<link>http://www.tvrage.com/the-pool-master</link>
+		</event>
+	</location>
+	<location name="msnbc" subtext="">
+		<event start="20:00" end="21:00">
+			<title>All In With Chris Hayes</title>
+			<subtitle>Season 03 Episode 65</subtitle>
+			<description><![CDATA[Season 3, Episode 65]]></description>
+			<link>http://www.tvrage.com/all-in-with-chris-hayes</link>
+		</event>
+	</location>
+	<location name="oxygen" subtext="">
+		<event start="20:00" end="21:00">
+			<title>Preachers of Detroit</title>
+			<subtitle>Season 01 Episode 08</subtitle>
+			<description><![CDATA[Politics As Usual]]></description>
+			<link>http://www.tvrage.com/shows/id-47758</link>
+		</event>
+	</location>
+	<location name="PBS" subtext="">
+		<event start="20:30" end="21:30">
+			<title>Charlie Rose: The Week</title>
+			<subtitle>Season 03 Episode 14</subtitle>
+			<description><![CDATA[Season 3, Episode 14]]></description>
+			<link>http://www.tvrage.com/charlie-rose-the-week</link>
+		</event>
+	</location>
+	<location name="ABC" subtext="">
+		<event start="20:30" end="21:30">
+			<title>Cristela</title>
+			<subtitle>Season 01 Episode 20</subtitle>
+			<description><![CDATA[Last Goose Standing]]></description>
+			<link>http://www.tvrage.com/cristela</link>
+		</event>
+	</location>
+	<location name="Bravo" subtext="">
+		<event start="20:54" end="21:54">
+			<title>The Real Housewives Of Atlanta</title>
+			<subtitle>Season S07-Special Episode </subtitle>
+			<description><![CDATA[First Look (9)]]></description>
+			<link>http://www.tvrage.com/The_Real_Housewives_Of_Atlanta</link>
+		</event>
+	</location>
+	<location name="Destination America" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Impact Wrestling</title>
+			<subtitle>Season 12 Episode 13</subtitle>
+			<description><![CDATA[Final Reckoning]]></description>
+			<link>http://www.tvrage.com/TNA_Impact</link>
+		</event>
+	</location>
+	<location name="TLC" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Say Yes To The Dress</title>
+			<subtitle>Season 13 Episode 09</subtitle>
+			<description><![CDATA[Love at first sight]]></description>
+			<link>http://www.tvrage.com/Say_Yes_To_The_Dress</link>
+		</event>
+	</location>
+	<location name="msnbc" subtext="">
+		<event start="21:00" end="22:00">
+			<title>The Rachel Maddow Show</title>
+			<subtitle>Season 08 Episode 65</subtitle>
+			<description><![CDATA[Season 8, Episode 65]]></description>
+			<link>http://www.tvrage.com/The_Rachel_Maddow_Show</link>
+		</event>
+	</location>
+	<location name="CBS" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Hawaii Five-0</title>
+			<subtitle>Season 05 Episode 20</subtitle>
+			<description><![CDATA[’Ike Hānau (Instinct)]]></description>
+			<link>http://www.tvrage.com/Hawaii_Five-O</link>
+		</event>
+	</location>
+	<location name="travel CHANNEL" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Mysteries at the Museum</title>
+			<subtitle>Season 08 Episode 01</subtitle>
+			<description><![CDATA[Cellophane Start, Eruption Hoax, Parking Lot King]]></description>
+			<link>http://www.tvrage.com/Mysteries_at_the_Museum</link>
+		</event>
+	</location>
+	<location name="OPRAH WINFREY NETWORK" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Tyler Perry's For Better Or Worse</title>
+			<subtitle>Season 04 Episode 16</subtitle>
+			<description><![CDATA[Who Got the Keys]]></description>
+			<link>http://www.tvrage.com/tyler-perry-s-for-better-or-worse</link>
+		</event>
+	</location>
+	<location name="Discovery Channel" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Bering Sea Gold</title>
+			<subtitle>Season 04 Episode 04</subtitle>
+			<description><![CDATA[No Man Left Behind]]></description>
+			<link>http://www.tvrage.com/bering-sea-gold</link>
+		</event>
+	</location>
+	<location name="We tv" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Kendra on Top</title>
+			<subtitle>Season 04 Episode 02</subtitle>
+			<description><![CDATA[WATCHit With Kendra & Hank: Cutting the Cord / Damage Control]]></description>
+			<link>http://www.tvrage.com/kendra-on-top</link>
+		</event>
+	</location>
+	<location name="ESPN 2" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Friday Night Fights</title>
+			<subtitle>Season 03 Episode 10</subtitle>
+			<description><![CDATA[ESPN Friday Night Fights: Gamaliel Diaz vs. Petr Petrov]]></description>
+			<link>http://www.tvrage.com/friday-night-fights</link>
+		</event>
+	</location>
+	<location name="VH1" subtext="">
+		<event start="21:00" end="22:00">
+			<title>VH1 Specials</title>
+			<subtitle>Season 01 Episode 07</subtitle>
+			<description><![CDATA[Backstreet Boys: Show 'Em What You're Made Of]]></description>
+			<link>http://www.tvrage.com/vh1-specials</link>
+		</event>
+	</location>
+	<location name="Syfy" subtext="">
+		<event start="21:00" end="22:00">
+			<title>12 Monkeys</title>
+			<subtitle>Season 01 Episode 12</subtitle>
+			<description><![CDATA[Paradox]]></description>
+			<link>http://www.tvrage.com/12-monkeys</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="21:00" end="22:00">
+			<title>The Kelly File</title>
+			<subtitle>Season 03 Episode 67</subtitle>
+			<description><![CDATA[Season 3, Episode 67]]></description>
+			<link>http://www.tvrage.com/the-kelly-file</link>
+		</event>
+	</location>
+	<location name="NAT GEO WILD" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Cesar 911</title>
+			<subtitle>Season 02 Episode 06</subtitle>
+			<description><![CDATA[Devil or Saint?]]></description>
+			<link>http://www.tvrage.com/cesar-911</link>
+		</event>
+	</location>
+	<location name="Lifetime" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Bring It!</title>
+			<subtitle>Season 02 Episode 11</subtitle>
+			<description><![CDATA[Baby Tiger Attack]]></description>
+			<link>http://www.tvrage.com/bring-it</link>
+		</event>
+	</location>
+	<location name="WWE Network" subtext="">
+		<event start="21:00" end="22:00">
+			<title>WWE Beyond the Ring</title>
+			<subtitle>Season 02 Episode 18</subtitle>
+			<description><![CDATA[The Best of Saturday Night's Main Event]]></description>
+			<link>http://www.tvrage.com/wwe-beyond-the-ring</link>
+		</event>
+	</location>
+	<location name="Animal Planet" subtext="">
+		<event start="21:00" end="22:00">
+			<title>The Pool Master</title>
+			<subtitle>Season 02 Episode 01</subtitle>
+			<description><![CDATA[Sporting Pool (aka: Liquid Living Room)]]></description>
+			<link>http://www.tvrage.com/the-pool-master</link>
+		</event>
+	</location>
+	<location name="AXStv" subtext="">
+		<event start="21:00" end="22:00">
+			<title>New Japan Pro Wrestling on AXS TV</title>
+			<subtitle>Season 01 Episode 12</subtitle>
+			<description><![CDATA[&quot;Rainmaker&quot; Kazuchika Okada defends the IWGP Heavyweight Championship against former TNA World Champ]]></description>
+			<link>http://www.tvrage.com/shows/id-46569</link>
+		</event>
+	</location>
+	<location name="tbs" subtext="">
+		<event start="21:00" end="22:00">
+			<title>Meet the Smiths</title>
+			<subtitle>Season 01 Episode 01</subtitle>
+			<description><![CDATA[Step Your Notches Up]]></description>
+			<link>http://www.tvrage.com/shows/id-47760</link>
+		</event>
+	</location>
+	<location name="Bravo" subtext="">
+		<event start="21:18" end="22:18">
+			<title>The Real Housewives of New York City</title>
+			<subtitle>Season S07-Special Episode </subtitle>
+			<description><![CDATA[First Look (1)]]></description>
+			<link>http://www.tvrage.com/The_Real_Housewives_of_New_York_City</link>
+		</event>
+	</location>
+	<location name="Bravo" subtext="">
+		<event start="21:30" end="22:30">
+			<title>The Real Housewives of Beverly Hills</title>
+			<subtitle>Season S05-Special Episode </subtitle>
+			<description><![CDATA[First Look (8)]]></description>
+			<link>http://www.tvrage.com/The_Real_Housewives_of_Beverly_Hills</link>
+		</event>
+	</location>
+	<location name="TLC" subtext="">
+		<event start="21:30" end="22:30">
+			<title>Bride by Design</title>
+			<subtitle>Season 01 Episode 04</subtitle>
+			<description><![CDATA[A Dress to Dye For]]></description>
+			<link>http://www.tvrage.com/bride-by-design</link>
+		</event>
+	</location>
+	<location name="Bravo" subtext="">
+		<event start="21:41" end="22:41">
+			<title>Shahs of Sunset</title>
+			<subtitle>Season S04-Special Episode </subtitle>
+			<description><![CDATA[First Look (3)]]></description>
+			<link>http://www.tvrage.com/shahs-of-sunset</link>
+		</event>
+	</location>
+	<location name="E!" subtext="">
+		<event start="22:00" end="1:00">
+			<title>The Soup</title>
+			<subtitle>Season 12 Episode 13</subtitle>
+			<description><![CDATA[Grace Helbig]]></description>
+			<link>http://www.tvrage.com/The_Soup</link>
+		</event>
+	</location>
+	<location name="FOX NEWS channel" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Hannity</title>
+			<subtitle>Season 20 Episode 67</subtitle>
+			<description><![CDATA[Season 20, Episode 67]]></description>
+			<link>http://www.tvrage.com/hannity</link>
+		</event>
+	</location>
+	<location name="NBC" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Dateline NBC</title>
+			<subtitle>Season 24 Episode 30</subtitle>
+			<description><![CDATA[The Last Dance]]></description>
+			<link>http://www.tvrage.com/Dateline_NBC</link>
+		</event>
+	</location>
+	<location name="CBS" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Blue Bloods</title>
+			<subtitle>Season 05 Episode 19</subtitle>
+			<description><![CDATA[Through the Looking Glass]]></description>
+			<link>http://www.tvrage.com/Blue_Bloods</link>
+		</event>
+	</location>
+	<location name="NAT GEO WILD" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Unlikely Animal Friends</title>
+			<subtitle>Season 02 Episode 06</subtitle>
+			<description><![CDATA[Cheetah Cub, Puppy Love]]></description>
+			<link>http://www.tvrage.com/unlikely-animal-friends</link>
+		</event>
+	</location>
+	<location name="Syfy" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Helix</title>
+			<subtitle>Season 02 Episode 12</subtitle>
+			<description><![CDATA[The Ascendant]]></description>
+			<link>http://www.tvrage.com/helix</link>
+		</event>
+	</location>
+	<location name="Lifetime" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Preachers' Daughters</title>
+			<subtitle>Season 03 Episode 11</subtitle>
+			<description><![CDATA[Judgement Day]]></description>
+			<link>http://www.tvrage.com/preachers-daughters</link>
+		</event>
+	</location>
+	<location name="Teennick" subtext="">
+		<event start="22:00" end="1:00">
+			<title>TeenNick Top 10</title>
+			<subtitle>Season 04 Episode 20</subtitle>
+			<description><![CDATA[Cast of Make It Pop]]></description>
+			<link>http://www.tvrage.com/teennick-top-10</link>
+		</event>
+	</location>
+	<location name="AXStv" subtext="">
+		<event start="22:00" end="1:00">
+			<title>AXS TV Fights</title>
+			<subtitle>Season 03 Episode 12</subtitle>
+			<description><![CDATA[Legacy Fighting Championship 41]]></description>
+			<link>http://www.tvrage.com/axs-tv-fights</link>
+		</event>
+	</location>
+	<location name="SPIKE" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Glory</title>
+			<subtitle>Season 03 Episode 02</subtitle>
+			<description><![CDATA[Glory Kickboxing: Dubai]]></description>
+			<link>http://www.tvrage.com/glory</link>
+		</event>
+	</location>
+	<location name="truTV" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Way Out West</title>
+			<subtitle>Season 02 Episode 05</subtitle>
+			<description><![CDATA[The Muzzleloader Hunt]]></description>
+			<link>http://www.tvrage.com/way-out-west</link>
+		</event>
+	</location>
+	<location name="TLC" subtext="">
+		<event start="22:00" end="1:00">
+			<title>Bride by Design</title>
+			<subtitle>Season 01 Episode 05</subtitle>
+			<description><![CDATA[Indecision Reigns]]></description>
+			<link>http://www.tvrage.com/bride-by-design</link>
+		</event>
+	</location>
+	<location name="GREAT AMERICAN COUNTRY" subtext="">
+		<event start="22:00" end="1:00">
+			<title>The Best of Pinks All Out</title>
+			<subtitle>Season 01 Episode 07</subtitle>
+			<description><![CDATA[All Out in North Carolina]]></description>
+			<link>http://www.tvrage.com/shows/id-48278</link>
+		</event>
+	</location>
+	<location name="truTV" subtext="">
+		<event start="22:30" end="1:30">
+			<title>Way Out West</title>
+			<subtitle>Season 02 Episode 06</subtitle>
+			<description><![CDATA[Duke Days]]></description>
+			<link>http://www.tvrage.com/way-out-west</link>
+		</event>
+	</location>
+	<location name="E!" subtext="">
+		<event start="22:30" end="1:30">
+			<title>The Grace Helbig Show</title>
+			<subtitle>Season 01 Episode 01</subtitle>
+			<description><![CDATA[Aisha Tyler, Mamrie Hart & Dj Flula]]></description>
+			<link>http://www.tvrage.com/the-grace-helbig-project</link>
+		</event>
+	</location>
+	<location name="ESPNEWS" subtext="">
+		<event start="23:00" end="1:00">
+			<title>Around the Horn</title>
+			<subtitle>Season 13 Episode 84</subtitle>
+			<description><![CDATA[Season 13, Episode 84]]></description>
+			<link>http://www.tvrage.com/Around_the_Horn</link>
+		</event>
+	</location>
+	<location name="E!" subtext="">
+		<event start="23:00" end="1:00">
+			<title>E! News</title>
+			<subtitle>Season 25 Episode 106</subtitle>
+			<description><![CDATA[Season 25, Episode 106]]></description>
+			<link>http://www.tvrage.com/e-news</link>
+		</event>
+	</location>
+	<location name="IFC" subtext="">
+		<event start="23:00" end="1:00">
+			<title>Comedy Bang! Bang!</title>
+			<subtitle>Season 04 Episode 11</subtitle>
+			<description><![CDATA[Joseph Gordon-Levitt Wears a Heart T-Shirt and Blue Jeans]]></description>
+			<link>http://www.tvrage.com/comedy-bang-bang</link>
+		</event>
+	</location>
+	<location name="truTV" subtext="">
+		<event start="23:00" end="1:00">
+			<title>Way Out West</title>
+			<subtitle>Season 02 Episode 07</subtitle>
+			<description><![CDATA[Dynamite Disaster]]></description>
+			<link>http://www.tvrage.com/way-out-west</link>
+		</event>
+	</location>
+	<location name="Lifetime" subtext="">
+		<event start="23:02" end="1:02">
+			<title>Kosher Soul</title>
+			<subtitle>Season 01 Episode 11</subtitle>
+			<description><![CDATA[The Red Party]]></description>
+			<link>http://www.tvrage.com/shows/id-47349</link>
+		</event>
+	</location>
+	<location name="truTV" subtext="">
+		<event start="23:30" end="1:30">
+			<title>Way Out West</title>
+			<subtitle>Season 02 Episode 08</subtitle>
+			<description><![CDATA[Rodeo Clowning Around]]></description>
+			<link>http://www.tvrage.com/way-out-west</link>
+		</event>
+	</location>
+	<location name="Adult Swim" subtext="">
+		<event start="23:30" end="1:30">
+			<title>The Jack and Triumph Show</title>
+			<subtitle>Season 01 Episode 07</subtitle>
+			<description><![CDATA[Commercial]]></description>
+			<link>http://www.tvrage.com/shows/id-47832</link>
+		</event>
+	</location>
+	<location name="Lifetime" subtext="">
+		<event start="23:32" end="1:32">
+			<title>Kosher Soul</title>
+			<subtitle>Season 01 Episode 12</subtitle>
+			<description><![CDATA[Judgment Day]]></description>
+			<link>http://www.tvrage.com/shows/id-47349</link>
+		</event>
+	</location>
+	<location name="CBS" subtext="">
+		<event start="23:35" end="1:35">
+			<title>The Late Show with David Letterman</title>
+			<subtitle>Season 22 Episode 49</subtitle>
+			<description><![CDATA[Mike Myers, Nick Griffin, Banks]]></description>
+			<link>http://www.tvrage.com/Late_Show_with_David_Letterman</link>
+		</event>
+	</location>
+	<location name="NBC" subtext="">
+		<event start="23:35" end="1:35">
+			<title>The Tonight Show Starring Jimmy Fallon</title>
+			<subtitle>Season 02 Episode 53</subtitle>
+			<description><![CDATA[Ricky Gervais, Jordana Brewster, Elle King, Boz Scaggs]]></description>
+			<link>http://www.tvrage.com/the-tonight-show-starring-jimmy-fallon</link>
+		</event>
+	</location>
+	<location name="Adult Swim" subtext="">
+		<event start="24:00" end="1:00">
+			<title>Childrens Hospital</title>
+			<subtitle>Season US Episode </subtitle>
+			<description><![CDATA[We Are Not Our DNA!]]></description>
+			<link>http://www.tvrage.com/Childrens_Hospital</link>
+		</event>
+	</location>
+	<location name="We tv" subtext="">
+		<event start="24:00" end="1:00">
+			<title>Watch It With Mary Mary</title>
+			<subtitle>Season 01 Episode 05</subtitle>
+			<description><![CDATA[I'm Gonna Kill Somebody!]]></description>
+			<link>http://www.tvrage.com/shows/id-47922</link>
+		</event>
+	</location>
+	<location name="ABC" subtext="">
+		<event start="24:35" end="1:35">
+			<title>Derek</title>
+			<subtitle>Season 02 Episode 07</subtitle>
+			<description><![CDATA[The Special]]></description>
+			<link>http://www.tvrage.com/derek</link>
+		</event>
+	</location>
+	<location name="PBS" subtext="">
+		<event start="13:00" end="14:00">
+			<title>Nightline</title>
+			<subtitle>Season 35 Episode 67</subtitle>
+			<description><![CDATA[Season 35, Episode 67]]></description>
+			<link>http://www.tvrage.com/Nightline</link>
+		</event>
+	</location>
+	<location name="BET" subtext="">
+		<event start="13:05" end="14:05">
+			<title>Tavis Smiley</title>
+			<subtitle>Season 12 Episode 52</subtitle>
+			<description><![CDATA[Darnell Hunt, Blythe Danner]]></description>
+			<link>http://www.tvrage.com/Tavis_Smiley</link>
+		</event>
+	</location>
+	<location name="REELZ" subtext="">
+		<event start="13:30" end="14:30">
+			<title>The Real</title>
+			<subtitle>Season 03 Episode 65</subtitle>
+			<description><![CDATA[Gary Dourdan]]></description>
+			<link>http://www.tvrage.com/the-real</link>
+		</event>
+	</location>
+	<location name="adultswim.com" subtext="">
+		<event start="14:00" end="15:00">
+			<title>Dish Nation</title>
+			<subtitle>Season 04 Episode 67</subtitle>
+			<description><![CDATA[Season 4, Episode 67]]></description>
+			<link>http://www.tvrage.com/dish-nation</link>
+		</event>
+	</location>
+	<location name="ESPNEWS" subtext="">
+		<event start="14:30" end="15:30">
+			<title>Decker</title>
+			<subtitle>Season 02 Episode 20</subtitle>
+			<description><![CDATA[Decker: Port of Call: Hawaii - Episode 20]]></description>
+			<link>http://www.tvrage.com/shows/id-48087</link>
+		</event>
+	</location>
+</timetable>
