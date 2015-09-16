@@ -1,770 +1,481 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<timetable start="17:00" end="" interval="2" title="Fri, Apr 3 2015 7:00:01 PDT">
-	<location name="ESPNEWS" subtext="">
-		<event start="17:00" end="18:00">
-			<title>Around the Horn</title>
-			<subtitle>Season 13 Episode 83</subtitle>
-			<description><![CDATA[Season 13, Episode 83 (ESPN)]]></description>
-			<link>http://www.tvrage.com/Around_the_Horn</link>
-		</event>
-	</location>
-	<location name="CNN" subtext="">
-		<event start="17:00" end="18:00">
-			<title>The Situation Room with Wolf Blitzer</title>
-			<subtitle>Season 11 Episode 66</subtitle>
-			<description><![CDATA[Season 11, Episode 66]]></description>
-			<link>http://www.tvrage.com/The_Situation_Room</link>
-		</event>
-	</location>
-	<location name="msnbc" subtext="">
-		<event start="17:00" end="18:00">
-			<title>The Ed Show</title>
-			<subtitle>Season 07 Episode 66</subtitle>
-			<description><![CDATA[Season 7, Episode 66]]></description>
-			<link>http://www.tvrage.com/The_Ed_Show</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="17:00" end="18:00">
-			<title>The Five</title>
-			<subtitle>Season 05 Episode 67</subtitle>
-			<description><![CDATA[Season 5, Episode 67]]></description>
-			<link>http://www.tvrage.com/The_Five</link>
-		</event>
-	</location>
-	<location name="FOX SPORTS 1" subtext="">
-		<event start="17:00" end="18:00">
-			<title>America's Pregame</title>
-			<subtitle>Season 02 Episode 65</subtitle>
-			<description><![CDATA[Season 2, Episode 65]]></description>
-			<link>http://www.tvrage.com/america-s-pregame</link>
-		</event>
-	</location>
-	<location name="Bloomberg TELEVISION" subtext="">
-		<event start="17:00" end="18:00">
-			<title>With All Due Respect</title>
-			<subtitle>Season 02 Episode 66</subtitle>
-			<description><![CDATA[Season 2, Episode 66]]></description>
-			<link>http://www.tvrage.com/with-all-due-respect</link>
-		</event>
-	</location><location name="ESPN" subtext="">
-		<event start="17:30" end="18:30">
-			<title>Pardon the Interruption</title>
-			<subtitle>Season 15 Episode 75</subtitle>
-			<description><![CDATA[Season 15, Episode 75]]></description>
-			<link>http://www.tvrage.com/Pardon_the_Interruption</link>
-		</event>
-	</location>
-	<location name="NBCSN" subtext="">
-		<event start="17:30" end="18:30">
-			<title>Pro Football Talk</title>
-			<subtitle>Season 04 Episode 66</subtitle>
-			<description><![CDATA[Season 4, Episode 66]]></description>
-			<link>http://www.tvrage.com/pro-football-talk</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="18:00" end="19:00">
-			<title>Special Report with Bret Baier</title>
-			<subtitle>Season 18 Episode 67</subtitle>
-			<description><![CDATA[Season 18, Episode 67]]></description>
-			<link>http://www.tvrage.com/Special_Report_with_Bret_Baier</link>
-		</event>
-	</location>
-	<location name="ESPNEWS" subtext="">
-		<event start="18:00" end="19:00">
-			<title>ESPN FC</title>
-			<subtitle>Season 03 Episode 31</subtitle>
-			<description><![CDATA[Season 3, Episode 31]]></description>
-			<link>http://www.tvrage.com/espn-fc</link>
-		</event>
-	</location>
-	<location name="FOX SPORTS 1" subtext="">
-		<event start="18:00" end="19:00">
-			<title>NASCAR Race Hub</title>
-			<subtitle>Season 07 Episode 34</subtitle>
-			<description><![CDATA[Season 7, Episode 34]]></description>
-			<link>http://www.tvrage.com/nascar-race-hub</link>
-		</event>
-	</location>
-	<location name="msnbc" subtext="">
-		<event start="18:00" end="19:00">
-			<title>PoliticsNation</title>
-			<subtitle>Season 05 Episode 45</subtitle>
-			<description><![CDATA[Season 5, Episode 45]]></description>
-			<link>http://www.tvrage.com/politicsnation</link>
-		</event>
-	</location>
-	<location name="NBC" subtext="">
-		<event start="18:30" end="19:30">
-			<title>NBC Nightly News with Lester Holt</title>
-			<subtitle>Season 46 Episode 93</subtitle>
-			<description><![CDATA[Season 46, Episode 93]]></description>
-			<link>http://www.tvrage.com/NBC_Nightly_News</link>
-		</event>
-	</location>
-	<location name="CBS" subtext="">
-		<event start="18:30" end="19:30">
-			<title>CBS Evening News With Scott Pelley</title>
-			<subtitle>Season 68 Episode 93</subtitle>
-			<description><![CDATA[Season 68, Episode 93]]></description>
-			<link>http://www.tvrage.com/CBS_Evening_News</link>
-		</event>
-	</location>
-	<location name="ABC" subtext="">
-		<event start="18:30" end="19:30">
-			<title>ABC World News Tonight With David Muir</title>
-			<subtitle>Season 63 Episode 93</subtitle>
-			<description><![CDATA[Season 63, Episode 93]]></description>
-			<link>http://www.tvrage.com/ABC_World_News</link>
-		</event>
-	</location>
-	<location name="Cartoon Network" subtext="">
-		<event start="18:30" end="19:30">
-			<title>NinjaGo: Masters of Spinjitzu</title>
-			<subtitle>Season 04 Episode 10</subtitle>
-			<description><![CDATA[The Corridor of Elders]]></description>
-			<link>http://www.tvrage.com/LEGO_NinjaGo-Masters_of_Spinjitzu</link>
-		</event>
-	</location>
-	<location name="ESPNEWS" subtext="">
-		<event start="18:30" end="19:30">
-			<title>Olbermann</title>
-			<subtitle>Season 03 Episode 64</subtitle>
-			<description><![CDATA[Season 3, Episode 64]]></description>
-			<link>http://www.tvrage.com/olbermann</link>
-		</event>
-	</location>
-	<location name="NBCSN" subtext="">
-		<event start="18:30" end="19:30">
-			<title>NASCAR Racing K&amp;N Pro Series</title>
-			<subtitle>Season 03 Episode 02</subtitle>
-			<description><![CDATA[NASCAR Racing K&N Pro Series West: Kern 150 at Kern County Raceway Park in Bakersfield, CA (Tape del]]></description>
-			<link>http://www.tvrage.com/nascar-racing-k-n-pro-series</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="19:00" end="20:00">
-			<title>On The Record with Greta Van Susteren</title>
-			<subtitle>Season 14 Episode 67</subtitle>
-			<description><![CDATA[Season 14, Episode 67]]></description>
-			<link>http://www.tvrage.com/On_The_Record_with_Greta_Van_Susteren</link>
-		</event>
-	</location>
-	<location name="Bloomberg TELEVISION" subtext="">
-		<event start="19:00" end="20:00">
-			<title>Charlie Rose</title>
-			<subtitle>Season 24 Episode 66</subtitle>
-			<description><![CDATA[Season 24, Episode 66]]></description>
-			<link>http://www.tvrage.com/Charlie_Rose</link>
-		</event>
-	</location>
-	<location name="E!" subtext="">
-		<event start="19:00" end="20:00">
-			<title>E! News</title>
-			<subtitle>Season 25 Episode 105</subtitle>
-			<description><![CDATA[Season 25, Episode 105]]></description>
-			<link>http://www.tvrage.com/e-news</link>
-		</event>
-	</location>
-	<location name="NFL NETWORK" subtext="">
-		<event start="19:00" end="20:00">
-			<title>NFL Total Access</title>
-			<subtitle>Season 13 Episode 32</subtitle>
-			<description><![CDATA[Season 13, Episode 32]]></description>
-			<link>http://www.tvrage.com/NFL_Total_Access</link>
-		</event>
-	</location>
-	<location name="msnbc" subtext="">
-		<event start="19:00" end="20:00">
-			<title>Hardball with Chris Matthews</title>
-			<subtitle>Season 21 Episode 66</subtitle>
-			<description><![CDATA[Season 21, Episode 66]]></description>
-			<link>http://www.tvrage.com/Hardball_with_Chris_Matthews</link>
-		</event>
-	</location>
-	<location name="CNN" subtext="">
-		<event start="19:00" end="20:00">
-			<title>Erin Burnett OutFront</title>
-			<subtitle>Season 05 Episode 67</subtitle>
-			<description><![CDATA[Season 5, Episode 67]]></description>
-			<link>http://www.tvrage.com/erin-burnett-outfront</link>
-		</event>
-	</location>
-	<location name="Destination America" subtext="">
-		<event start="19:00" end="20:00">
-			<title>Impact Wrestling: Unlocked</title>
-			<subtitle>Season 01 Episode 08</subtitle>
-			<description><![CDATA[Hardy's Revenge]]></description>
-			<link>http://www.tvrage.com/shows/id-46980</link>
-		</event>
-	</location>
-	<location name="ESPNEWS" subtext="">
-		<event start="19:00" end="20:00">
-			<title>SportsNation</title>
-			<subtitle>Season 07 Episode 67</subtitle>
-			<description><![CDATA[Season 7, Episode 67]]></description>
-			<link>http://www.tvrage.com/shows/id-48102</link>
-		</event>
-	</location>
-	<location name="CBS" subtext="">
-		<event start="20:00" end="21:00">
-			<title>The Amazing Race</title>
-			<subtitle>Season 26 Episode 05</subtitle>
-			<description><![CDATA[Get in That Lederhosen, Baby]]></description>
-			<link>http://www.tvrage.com/The_Amazing_Race</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="20:00" end="21:00">
-			<title>The O'Reilly Factor</title>
-			<subtitle>Season 21 Episode 66</subtitle>
-			<description><![CDATA[Season 21, Episode 66]]></description>
-			<link>http://www.tvrage.com/The_OReilly_Factor</link>
-		</event>
-	</location>
-	<location name="CNN" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Anderson Cooper 360°</title>
-			<subtitle>Season 12 Episode 66</subtitle>
-			<description><![CDATA[Season 12, Episode 66]]></description>
-			<link>http://www.tvrage.com/anderson-cooper-360</link>
-		</event>
-	</location>
-	<location name="PBS" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Washington Week with Gwen Ifill</title>
-			<subtitle>Season 55 Episode 14</subtitle>
-			<description><![CDATA[Season 55, Episode 14]]></description>
-			<link>http://www.tvrage.com/Washington_Week</link>
-		</event>
-	</location>
-	<location name="WWE Network" subtext="">
-		<event start="20:00" end="21:00">
-			<title>WWE Superstars</title>
-			<subtitle>Season 07 Episode 08</subtitle>
-			<description><![CDATA[Season 7, Episode 8]]></description>
-			<link>http://www.tvrage.com/wwe-superstars</link>
-		</event>
-	</location>
-	<location name="NBC" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Grimm</title>
-			<subtitle>Season 04 Episode 16</subtitle>
-			<description><![CDATA[Heartbreaker]]></description>
-			<link>http://www.tvrage.com/Grimm</link>
-		</event>
-	</location>
-	<location name="ABC" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Last Man Standing</title>
-			<subtitle>Season 04 Episode 20</subtitle>
-			<description><![CDATA[Restaurant Opening]]></description>
-			<link>http://www.tvrage.com/Last_Man_Standing</link>
-		</event>
-	</location>
-	<location name="Discovery Channel" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Bering Sea Gold</title>
-			<subtitle>Season S04-Special Episode </subtitle>
-			<description><![CDATA[Dredged Up: Namby-Pamby Mugwumps]]></description>
-			<link>http://www.tvrage.com/bering-sea-gold</link>
-		</event>
-	</location>
-	<location name="Lifetime" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Bring It!</title>
-			<subtitle>Season S02-Special Episode </subtitle>
-			<description><![CDATA[Fan Chat: Don't Do It, Neva]]></description>
-			<link>http://www.tvrage.com/bring-it</link>
-		</event>
-	</location>
-	<location name="Animal Planet" subtext="">
-		<event start="20:00" end="21:00">
-			<title>The Pool Master</title>
-			<subtitle>Season S02-Special Episode </subtitle>
-			<description><![CDATA[Best Builds]]></description>
-			<link>http://www.tvrage.com/the-pool-master</link>
-		</event>
-	</location>
-	<location name="msnbc" subtext="">
-		<event start="20:00" end="21:00">
-			<title>All In With Chris Hayes</title>
-			<subtitle>Season 03 Episode 65</subtitle>
-			<description><![CDATA[Season 3, Episode 65]]></description>
-			<link>http://www.tvrage.com/all-in-with-chris-hayes</link>
-		</event>
-	</location>
-	<location name="oxygen" subtext="">
-		<event start="20:00" end="21:00">
-			<title>Preachers of Detroit</title>
-			<subtitle>Season 01 Episode 08</subtitle>
-			<description><![CDATA[Politics As Usual]]></description>
-			<link>http://www.tvrage.com/shows/id-47758</link>
-		</event>
-	</location>
-	<location name="PBS" subtext="">
-		<event start="20:30" end="21:30">
-			<title>Charlie Rose: The Week</title>
-			<subtitle>Season 03 Episode 14</subtitle>
-			<description><![CDATA[Season 3, Episode 14]]></description>
-			<link>http://www.tvrage.com/charlie-rose-the-week</link>
-		</event>
-	</location>
-	<location name="ABC" subtext="">
-		<event start="20:30" end="21:30">
-			<title>Cristela</title>
-			<subtitle>Season 01 Episode 20</subtitle>
-			<description><![CDATA[Last Goose Standing]]></description>
-			<link>http://www.tvrage.com/cristela</link>
-		</event>
-	</location>
-	<location name="Bravo" subtext="">
-		<event start="20:54" end="21:54">
-			<title>The Real Housewives Of Atlanta</title>
-			<subtitle>Season S07-Special Episode </subtitle>
-			<description><![CDATA[First Look (9)]]></description>
-			<link>http://www.tvrage.com/The_Real_Housewives_Of_Atlanta</link>
-		</event>
-	</location>
-	<location name="Destination America" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Impact Wrestling</title>
-			<subtitle>Season 12 Episode 13</subtitle>
-			<description><![CDATA[Final Reckoning]]></description>
-			<link>http://www.tvrage.com/TNA_Impact</link>
-		</event>
-	</location>
-	<location name="TLC" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Say Yes To The Dress</title>
-			<subtitle>Season 13 Episode 09</subtitle>
-			<description><![CDATA[Love at first sight]]></description>
-			<link>http://www.tvrage.com/Say_Yes_To_The_Dress</link>
-		</event>
-	</location>
-	<location name="msnbc" subtext="">
-		<event start="21:00" end="22:00">
-			<title>The Rachel Maddow Show</title>
-			<subtitle>Season 08 Episode 65</subtitle>
-			<description><![CDATA[Season 8, Episode 65]]></description>
-			<link>http://www.tvrage.com/The_Rachel_Maddow_Show</link>
-		</event>
-	</location>
-	<location name="CBS" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Hawaii Five-0</title>
-			<subtitle>Season 05 Episode 20</subtitle>
-			<description><![CDATA[’Ike Hānau (Instinct)]]></description>
-			<link>http://www.tvrage.com/Hawaii_Five-O</link>
-		</event>
-	</location>
-	<location name="travel CHANNEL" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Mysteries at the Museum</title>
-			<subtitle>Season 08 Episode 01</subtitle>
-			<description><![CDATA[Cellophane Start, Eruption Hoax, Parking Lot King]]></description>
-			<link>http://www.tvrage.com/Mysteries_at_the_Museum</link>
-		</event>
-	</location>
-	<location name="OPRAH WINFREY NETWORK" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Tyler Perry's For Better Or Worse</title>
-			<subtitle>Season 04 Episode 16</subtitle>
-			<description><![CDATA[Who Got the Keys]]></description>
-			<link>http://www.tvrage.com/tyler-perry-s-for-better-or-worse</link>
-		</event>
-	</location>
-	<location name="Discovery Channel" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Bering Sea Gold</title>
-			<subtitle>Season 04 Episode 04</subtitle>
-			<description><![CDATA[No Man Left Behind]]></description>
-			<link>http://www.tvrage.com/bering-sea-gold</link>
-		</event>
-	</location>
-	<location name="We tv" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Kendra on Top</title>
-			<subtitle>Season 04 Episode 02</subtitle>
-			<description><![CDATA[WATCHit With Kendra & Hank: Cutting the Cord / Damage Control]]></description>
-			<link>http://www.tvrage.com/kendra-on-top</link>
-		</event>
-	</location>
-	<location name="ESPN 2" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Friday Night Fights</title>
-			<subtitle>Season 03 Episode 10</subtitle>
-			<description><![CDATA[ESPN Friday Night Fights: Gamaliel Diaz vs. Petr Petrov]]></description>
-			<link>http://www.tvrage.com/friday-night-fights</link>
-		</event>
-	</location>
-	<location name="VH1" subtext="">
-		<event start="21:00" end="22:00">
-			<title>VH1 Specials</title>
-			<subtitle>Season 01 Episode 07</subtitle>
-			<description><![CDATA[Backstreet Boys: Show 'Em What You're Made Of]]></description>
-			<link>http://www.tvrage.com/vh1-specials</link>
-		</event>
-	</location>
-	<location name="Syfy" subtext="">
-		<event start="21:00" end="22:00">
-			<title>12 Monkeys</title>
-			<subtitle>Season 01 Episode 12</subtitle>
-			<description><![CDATA[Paradox]]></description>
-			<link>http://www.tvrage.com/12-monkeys</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="21:00" end="22:00">
-			<title>The Kelly File</title>
-			<subtitle>Season 03 Episode 67</subtitle>
-			<description><![CDATA[Season 3, Episode 67]]></description>
-			<link>http://www.tvrage.com/the-kelly-file</link>
-		</event>
-	</location>
-	<location name="NAT GEO WILD" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Cesar 911</title>
-			<subtitle>Season 02 Episode 06</subtitle>
-			<description><![CDATA[Devil or Saint?]]></description>
-			<link>http://www.tvrage.com/cesar-911</link>
-		</event>
-	</location>
-	<location name="Lifetime" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Bring It!</title>
-			<subtitle>Season 02 Episode 11</subtitle>
-			<description><![CDATA[Baby Tiger Attack]]></description>
-			<link>http://www.tvrage.com/bring-it</link>
-		</event>
-	</location>
-	<location name="WWE Network" subtext="">
-		<event start="21:00" end="22:00">
-			<title>WWE Beyond the Ring</title>
-			<subtitle>Season 02 Episode 18</subtitle>
-			<description><![CDATA[The Best of Saturday Night's Main Event]]></description>
-			<link>http://www.tvrage.com/wwe-beyond-the-ring</link>
-		</event>
-	</location>
-	<location name="Animal Planet" subtext="">
-		<event start="21:00" end="22:00">
-			<title>The Pool Master</title>
-			<subtitle>Season 02 Episode 01</subtitle>
-			<description><![CDATA[Sporting Pool (aka: Liquid Living Room)]]></description>
-			<link>http://www.tvrage.com/the-pool-master</link>
-		</event>
-	</location>
-	<location name="AXStv" subtext="">
-		<event start="21:00" end="22:00">
-			<title>New Japan Pro Wrestling on AXS TV</title>
-			<subtitle>Season 01 Episode 12</subtitle>
-			<description><![CDATA[&quot;Rainmaker&quot; Kazuchika Okada defends the IWGP Heavyweight Championship against former TNA World Champ]]></description>
-			<link>http://www.tvrage.com/shows/id-46569</link>
-		</event>
-	</location>
-	<location name="tbs" subtext="">
-		<event start="21:00" end="22:00">
-			<title>Meet the Smiths</title>
-			<subtitle>Season 01 Episode 01</subtitle>
-			<description><![CDATA[Step Your Notches Up]]></description>
-			<link>http://www.tvrage.com/shows/id-47760</link>
-		</event>
-	</location>
-	<location name="Bravo" subtext="">
-		<event start="21:18" end="22:18">
-			<title>The Real Housewives of New York City</title>
-			<subtitle>Season S07-Special Episode </subtitle>
-			<description><![CDATA[First Look (1)]]></description>
-			<link>http://www.tvrage.com/The_Real_Housewives_of_New_York_City</link>
-		</event>
-	</location>
-	<location name="Bravo" subtext="">
-		<event start="21:30" end="22:30">
-			<title>The Real Housewives of Beverly Hills</title>
-			<subtitle>Season S05-Special Episode </subtitle>
-			<description><![CDATA[First Look (8)]]></description>
-			<link>http://www.tvrage.com/The_Real_Housewives_of_Beverly_Hills</link>
-		</event>
-	</location>
-	<location name="TLC" subtext="">
-		<event start="21:30" end="22:30">
-			<title>Bride by Design</title>
-			<subtitle>Season 01 Episode 04</subtitle>
-			<description><![CDATA[A Dress to Dye For]]></description>
-			<link>http://www.tvrage.com/bride-by-design</link>
-		</event>
-	</location>
-	<location name="Bravo" subtext="">
-		<event start="21:41" end="22:41">
-			<title>Shahs of Sunset</title>
-			<subtitle>Season S04-Special Episode </subtitle>
-			<description><![CDATA[First Look (3)]]></description>
-			<link>http://www.tvrage.com/shahs-of-sunset</link>
-		</event>
-	</location>
-	<location name="E!" subtext="">
-		<event start="22:00" end="1:00">
-			<title>The Soup</title>
-			<subtitle>Season 12 Episode 13</subtitle>
-			<description><![CDATA[Grace Helbig]]></description>
-			<link>http://www.tvrage.com/The_Soup</link>
-		</event>
-	</location>
-	<location name="FOX NEWS channel" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Hannity</title>
-			<subtitle>Season 20 Episode 67</subtitle>
-			<description><![CDATA[Season 20, Episode 67]]></description>
-			<link>http://www.tvrage.com/hannity</link>
-		</event>
-	</location>
-	<location name="NBC" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Dateline NBC</title>
-			<subtitle>Season 24 Episode 30</subtitle>
-			<description><![CDATA[The Last Dance]]></description>
-			<link>http://www.tvrage.com/Dateline_NBC</link>
-		</event>
-	</location>
-	<location name="CBS" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Blue Bloods</title>
-			<subtitle>Season 05 Episode 19</subtitle>
-			<description><![CDATA[Through the Looking Glass]]></description>
-			<link>http://www.tvrage.com/Blue_Bloods</link>
-		</event>
-	</location>
-	<location name="NAT GEO WILD" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Unlikely Animal Friends</title>
-			<subtitle>Season 02 Episode 06</subtitle>
-			<description><![CDATA[Cheetah Cub, Puppy Love]]></description>
-			<link>http://www.tvrage.com/unlikely-animal-friends</link>
-		</event>
-	</location>
-	<location name="Syfy" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Helix</title>
-			<subtitle>Season 02 Episode 12</subtitle>
-			<description><![CDATA[The Ascendant]]></description>
-			<link>http://www.tvrage.com/helix</link>
-		</event>
-	</location>
-	<location name="Lifetime" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Preachers' Daughters</title>
-			<subtitle>Season 03 Episode 11</subtitle>
-			<description><![CDATA[Judgement Day]]></description>
-			<link>http://www.tvrage.com/preachers-daughters</link>
-		</event>
-	</location>
-	<location name="Teennick" subtext="">
-		<event start="22:00" end="1:00">
-			<title>TeenNick Top 10</title>
-			<subtitle>Season 04 Episode 20</subtitle>
-			<description><![CDATA[Cast of Make It Pop]]></description>
-			<link>http://www.tvrage.com/teennick-top-10</link>
-		</event>
-	</location>
-	<location name="AXStv" subtext="">
-		<event start="22:00" end="1:00">
-			<title>AXS TV Fights</title>
-			<subtitle>Season 03 Episode 12</subtitle>
-			<description><![CDATA[Legacy Fighting Championship 41]]></description>
-			<link>http://www.tvrage.com/axs-tv-fights</link>
-		</event>
-	</location>
-	<location name="SPIKE" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Glory</title>
-			<subtitle>Season 03 Episode 02</subtitle>
-			<description><![CDATA[Glory Kickboxing: Dubai]]></description>
-			<link>http://www.tvrage.com/glory</link>
-		</event>
-	</location>
-	<location name="truTV" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Way Out West</title>
-			<subtitle>Season 02 Episode 05</subtitle>
-			<description><![CDATA[The Muzzleloader Hunt]]></description>
-			<link>http://www.tvrage.com/way-out-west</link>
-		</event>
-	</location>
-	<location name="TLC" subtext="">
-		<event start="22:00" end="1:00">
-			<title>Bride by Design</title>
-			<subtitle>Season 01 Episode 05</subtitle>
-			<description><![CDATA[Indecision Reigns]]></description>
-			<link>http://www.tvrage.com/bride-by-design</link>
-		</event>
-	</location>
-	<location name="GREAT AMERICAN COUNTRY" subtext="">
-		<event start="22:00" end="1:00">
-			<title>The Best of Pinks All Out</title>
-			<subtitle>Season 01 Episode 07</subtitle>
-			<description><![CDATA[All Out in North Carolina]]></description>
-			<link>http://www.tvrage.com/shows/id-48278</link>
-		</event>
-	</location>
-	<location name="truTV" subtext="">
-		<event start="22:30" end="1:30">
-			<title>Way Out West</title>
-			<subtitle>Season 02 Episode 06</subtitle>
-			<description><![CDATA[Duke Days]]></description>
-			<link>http://www.tvrage.com/way-out-west</link>
-		</event>
-	</location>
-	<location name="E!" subtext="">
-		<event start="22:30" end="1:30">
-			<title>The Grace Helbig Show</title>
-			<subtitle>Season 01 Episode 01</subtitle>
-			<description><![CDATA[Aisha Tyler, Mamrie Hart & Dj Flula]]></description>
-			<link>http://www.tvrage.com/the-grace-helbig-project</link>
-		</event>
-	</location>
-	<location name="ESPNEWS" subtext="">
-		<event start="23:00" end="1:00">
-			<title>Around the Horn</title>
-			<subtitle>Season 13 Episode 84</subtitle>
-			<description><![CDATA[Season 13, Episode 84]]></description>
-			<link>http://www.tvrage.com/Around_the_Horn</link>
-		</event>
-	</location>
-	<location name="E!" subtext="">
-		<event start="23:00" end="1:00">
-			<title>E! News</title>
-			<subtitle>Season 25 Episode 106</subtitle>
-			<description><![CDATA[Season 25, Episode 106]]></description>
-			<link>http://www.tvrage.com/e-news</link>
-		</event>
-	</location>
-	<location name="IFC" subtext="">
-		<event start="23:00" end="1:00">
-			<title>Comedy Bang! Bang!</title>
-			<subtitle>Season 04 Episode 11</subtitle>
-			<description><![CDATA[Joseph Gordon-Levitt Wears a Heart T-Shirt and Blue Jeans]]></description>
-			<link>http://www.tvrage.com/comedy-bang-bang</link>
-		</event>
-	</location>
-	<location name="truTV" subtext="">
-		<event start="23:00" end="1:00">
-			<title>Way Out West</title>
-			<subtitle>Season 02 Episode 07</subtitle>
-			<description><![CDATA[Dynamite Disaster]]></description>
-			<link>http://www.tvrage.com/way-out-west</link>
-		</event>
-	</location>
-	<location name="Lifetime" subtext="">
-		<event start="23:02" end="1:02">
-			<title>Kosher Soul</title>
-			<subtitle>Season 01 Episode 11</subtitle>
-			<description><![CDATA[The Red Party]]></description>
-			<link>http://www.tvrage.com/shows/id-47349</link>
-		</event>
-	</location>
-	<location name="truTV" subtext="">
-		<event start="23:30" end="1:30">
-			<title>Way Out West</title>
-			<subtitle>Season 02 Episode 08</subtitle>
-			<description><![CDATA[Rodeo Clowning Around]]></description>
-			<link>http://www.tvrage.com/way-out-west</link>
-		</event>
-	</location>
-	<location name="Adult Swim" subtext="">
-		<event start="23:30" end="1:30">
-			<title>The Jack and Triumph Show</title>
-			<subtitle>Season 01 Episode 07</subtitle>
-			<description><![CDATA[Commercial]]></description>
-			<link>http://www.tvrage.com/shows/id-47832</link>
-		</event>
-	</location>
-	<location name="Lifetime" subtext="">
-		<event start="23:32" end="1:32">
-			<title>Kosher Soul</title>
-			<subtitle>Season 01 Episode 12</subtitle>
-			<description><![CDATA[Judgment Day]]></description>
-			<link>http://www.tvrage.com/shows/id-47349</link>
-		</event>
-	</location>
-	<location name="CBS" subtext="">
-		<event start="23:35" end="1:35">
-			<title>The Late Show with David Letterman</title>
-			<subtitle>Season 22 Episode 49</subtitle>
-			<description><![CDATA[Mike Myers, Nick Griffin, Banks]]></description>
-			<link>http://www.tvrage.com/Late_Show_with_David_Letterman</link>
-		</event>
-	</location>
-	<location name="NBC" subtext="">
-		<event start="23:35" end="1:35">
-			<title>The Tonight Show Starring Jimmy Fallon</title>
-			<subtitle>Season 02 Episode 53</subtitle>
-			<description><![CDATA[Ricky Gervais, Jordana Brewster, Elle King, Boz Scaggs]]></description>
-			<link>http://www.tvrage.com/the-tonight-show-starring-jimmy-fallon</link>
-		</event>
-	</location>
-	<location name="Adult Swim" subtext="">
-		<event start="24:00" end="1:00">
-			<title>Childrens Hospital</title>
-			<subtitle>Season US Episode </subtitle>
-			<description><![CDATA[We Are Not Our DNA!]]></description>
-			<link>http://www.tvrage.com/Childrens_Hospital</link>
-		</event>
-	</location>
-	<location name="We tv" subtext="">
-		<event start="24:00" end="1:00">
-			<title>Watch It With Mary Mary</title>
-			<subtitle>Season 01 Episode 05</subtitle>
-			<description><![CDATA[I'm Gonna Kill Somebody!]]></description>
-			<link>http://www.tvrage.com/shows/id-47922</link>
-		</event>
-	</location>
-	<location name="ABC" subtext="">
-		<event start="24:35" end="1:35">
-			<title>Derek</title>
-			<subtitle>Season 02 Episode 07</subtitle>
-			<description><![CDATA[The Special]]></description>
-			<link>http://www.tvrage.com/derek</link>
-		</event>
-	</location>
-	<location name="PBS" subtext="">
-		<event start="13:00" end="14:00">
-			<title>Nightline</title>
-			<subtitle>Season 35 Episode 67</subtitle>
-			<description><![CDATA[Season 35, Episode 67]]></description>
-			<link>http://www.tvrage.com/Nightline</link>
-		</event>
-	</location>
-	<location name="BET" subtext="">
-		<event start="13:05" end="14:05">
-			<title>Tavis Smiley</title>
-			<subtitle>Season 12 Episode 52</subtitle>
-			<description><![CDATA[Darnell Hunt, Blythe Danner]]></description>
-			<link>http://www.tvrage.com/Tavis_Smiley</link>
-		</event>
-	</location>
-	<location name="REELZ" subtext="">
-		<event start="13:30" end="14:30">
-			<title>The Real</title>
-			<subtitle>Season 03 Episode 65</subtitle>
-			<description><![CDATA[Gary Dourdan]]></description>
-			<link>http://www.tvrage.com/the-real</link>
-		</event>
-	</location>
-	<location name="adultswim.com" subtext="">
-		<event start="14:00" end="15:00">
-			<title>Dish Nation</title>
-			<subtitle>Season 04 Episode 67</subtitle>
-			<description><![CDATA[Season 4, Episode 67]]></description>
-			<link>http://www.tvrage.com/dish-nation</link>
-		</event>
-	</location>
-	<location name="ESPNEWS" subtext="">
-		<event start="14:30" end="15:30">
-			<title>Decker</title>
-			<subtitle>Season 02 Episode 20</subtitle>
-			<description><![CDATA[Decker: Port of Call: Hawaii - Episode 20]]></description>
-			<link>http://www.tvrage.com/shows/id-48087</link>
-		</event>
-	</location>
-</timetable>
+        <timetable start="09:00" end="01:35" interval="2" title="2015-09-16"><location name="REELZ" subtext="">
+                    <event start="09:00" end="09:30">
+                    <title>Celebrated</title>
+                    <subtitle>Season 2015 Episode 66</subtitle>
+                    <description><![CDATA[<p><i>Celebrated </i>chronicles the dizzying heights of stardom as well as the personal pitfalls of fame, granting viewers access to their favorite stars like never before. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211739/celebrated-2015-09-16-jake-gyllenhaal</link>
+                </event>
+                </location><location name="Syndication" subtext="">
+                    <event start="13:00" end="14:00">
+                    <title>FABLife</title>
+                    <subtitle>Season 1 Episode 3</subtitle>
+                    <description><![CDATA[<p>Get ready… daytime is about to get restyled! Tyra Banks, Chief FABLife Stylist and Executive Producer, is bringing you <strong><em>"FABLife"</em></strong>. From Beauty &amp; Business to Fashion, Home, Food &amp; DIY, Tyra leads her crew of Stylists Chrissy Teigen, Joe Zee, Lauren Makk &amp; Leah Ashley, as they serve up expert tips &amp; tricks with a lot of laughter &amp; even more fierceness. FABLife is one-stop watching for anyone who wants to make their life more fun &amp; beautiful one closet, dish, room or transformation at a time!</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/231902/fablife-1x03-episode-3</link>
+                </event><event start="15:00" end="16:00">
+                    <title>Crime Watch Daily</title>
+                    <subtitle>Season 1 Episode 3</subtitle>
+                    <description><![CDATA[<p>A new one-hour program covering the most compelling aspects of the world of crime, mystery and intrigue, <strong><em>"CRIME WATCH DAILY"</em></strong> is the very first crime show to air in daytime syndication. From unsolved murders to must-see mysteries, undercover investigations and shocking crimes caught on video, the series will uncover the stories happening in small towns around America and turn them into national headlines. The key ingredients of "Mystery, Crime and Drama" will drive every episode. CRIME WATCH DAILY's network of affiliate stations will serve as an "extended newsroom," sharing resources and using local reporters to cover the stories in local markets all over the country.</p><p>Acclaimed Australian crime journalist and reporter Matt Doran will serve as host of CRIME WATCH DAILY, joined by a formidable team of correspondents: Emmy® Award–winning reporters Michelle Sigona and Andrea Isom, as well as New York Times bestselling author Jason Mattera. The series, created by Extra's Lisa Gregorisch-Dempsey, will feature real-life investigations and deliver crime stories alive with mystery, intrigue and sheer human drama.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/231928/crime-watch-daily-1x03-episode-3</link>
+                </event><event start="19:00" end="19:30">
+                    <title>Wheel of Fortune</title>
+                    <subtitle>Season 2015 Episode 120</subtitle>
+                    <description><![CDATA[<p>With more than 30 million viewers per week, WHEEL OF FORTUNE has been the #1 syndicated game show since its inception. It has earned six Daytime Emmy Awards, including the 2011 Emmy for Outstanding Game/Audience Participation Show. The series continues to attract a larger audience than many Primetime TV shows. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236225/wheel-of-fortune-2015-09-16-teachers-week-3</link>
+                </event><event start="19:30" end="20:00">
+                    <title>Jeopardy!</title>
+                    <subtitle>Season 2015 Episode 155</subtitle>
+                    <description><![CDATA[]]></description>
+                    <link>http://www.tvmaze.com/episodes/209059/jeopardy-2015-09-16-episode-3</link>
+                </event>
+                </location><location name="Nickelodeon" subtext="">
+                    <event start="17:00" end="17:30">
+                    <title>Alvinnn!!! and the Chipmunks</title>
+                    <subtitle>Season 1 Episode 27</subtitle>
+                    <description><![CDATA[<p>The new animated series, <em><strong>"ALVINNN!!! and The Chipmunks"</strong></em>, created by Janice Karman, will take viewers on a roller-coaster ride of music, laughter and stories geared to entertain four generations of "The Chipmunks" fans. Presented for the first time in glorious CGI, the series features ground-breaking animation and a new, original Chipmunk song in every episode. The series is an animated version of a prime-time sitcom and reflects the trials and tribulations of a single parent, David Seville, trying to raise six hyper-active Chipmunks. Like most parents, Dave's patience will be pushed to the limit, forcing him to end most sentences in "ALVINNN!!!"</p><p>Alvin, Simon and Theodore are brothers who tour the world as famous rock stars and still manage to go to school. Completely normal... right? Did I also mention that they're Chipmunks? Along with their best friends, The Chipettes, Alvin and his chipmunk brothers cause tons of trouble on and off the stage while their dad, Dave, tries to manage these three rambunctious rodents, while writing all of their hit songs. Alvin, Theodore, and Simon are so different, it's hard to believe that they came from the same litter. With little voices and BIG personalities, there will be no shortage of adventures when these Chipmunks hit the stage!<br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211247/alvinnn-and-the-chipmunks-1x27-super-heroes</link>
+                </event>
+                </location><location name="Velocity" subtext="">
+                    <event start="19:00" end="19:30">
+                    <title>Translogic</title>
+                    <subtitle>Season 2 Episode 1</subtitle>
+                    <description><![CDATA[<p>On this episode of Translogic we check out some small automakers with big dreams. The team at Spira has made a foam car that floats, Elio Motors aims to simplify your commute, and Illuminati Motor Works takes a page from the past and the future. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236698/translogic-2x01-small-automakers-big-dreams</link>
+                </event><event start="19:30" end="20:00">
+                    <title>The List</title>
+                    <subtitle>Season 2 Episode 1</subtitle>
+                    <description><![CDATA[<p>Buckle up, as host Jessi Combs attempts to break the women's land speed record in this award-winning episode of The List. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236710/the-list-2x01-break-a-land-speed-record</link>
+                </event><event start="22:00" end="22:30">
+                    <title>Dallas Car Sharks</title>
+                    <subtitle>Season 3 Episode 1</subtitle>
+                    <description><![CDATA[<p>This week at auction Frank, Ash and JD battle it out to see who will take home the best Ford Mustang. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236685/dallas-car-sharks-3x01-mustang-man</link>
+                </event><event start="22:30" end="23:00">
+                    <title>Dallas Car Sharks</title>
+                    <subtitle>Season 3 Episode 2</subtitle>
+                    <description><![CDATA[<p>Frank, the new guy, screeches on the scene with an '89 GMC Jimmy. He's eager to prove that he ain't no chump. After auction, Martha locates an Opel guru to help with her '69 Opel Kadett. JD invests in a lot of parts to make his '70 Olds 442 a dream car. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236686/dallas-car-sharks-3x02-theres-a-new-shark-in-town</link>
+                </event>
+                </location><location name="The CW" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>America's Next Top Model</title>
+                    <subtitle>Season 22 Episode 7</subtitle>
+                    <description><![CDATA[<p>The models struggle during an acting challenge, where a few don't take the task seriously. The guys and girls are tasked with pairing up for a sexy commercial at the beach, where jealousy runs rampant and some chemistry falls flat.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/182399/americas-next-top-model-22x07-the-guy-who-acts-a-fool</link>
+                </event><event start="21:00" end="22:00">
+                    <title>A Wicked Offer</title>
+                    <subtitle>Season 1 Episode 7</subtitle>
+                    <description><![CDATA[<p>Married couple Desirae and Sean from Illinois, are eager would love to start a family and would like to see a fertility specialist to make their dreams of being parents come true. Host and legal analyst Matthew J. O'Connor presents the couple with two scandalous and controversial tasks involving their unsuspecting co-workers and families for various cash prizes. The couple must then decide how far they are willing to go to make their dreams a reality.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/209334/a-wicked-offer-1x07-get-rich-or-cry-trying</link>
+                </event>
+                </location><location name="Game Show Network" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>Steampunk'd</title>
+                    <subtitle>Season 1 Episode 5</subtitle>
+                    <description><![CDATA[<p>Creating a steampunk nursery tests the limits of the makers to showcase their individual skills; guest judge Sabrina Soto.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/205267/steampunkd-1x05-baby-steam</link>
+                </event>
+                </location><location name="Cooking Channel" subtext="">
+                    <event start="20:00" end="20:30">
+                    <title>My Grandmother's Ravioli</title>
+                    <subtitle>Season 4 Episode 8</subtitle>
+                    <description><![CDATA[<p>Sister Marie Pappas, 62, is a kind and energetic nun who lives in a convent in Hopewell Junction, N.Y. She has dedicated her life to her faith and to teaching young people about religion. It's a Hawaiian-themed dinner at the convent, and Sr. Marie and her fellow nuns teach Mo Rocca how to prepare grilled chicken with pineapple and a pineapple cake that could be described as heavenly. Sr. Marie also has Mo as a guest on her weekly radio show.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/205704/my-grandmothers-ravioli-4x08-sister-sister</link>
+                </event>
+                </location><location name="ABC Family" subtext="">
+                    <event start="20:00" end="20:30">
+                    <title>Young &amp; Hungry</title>
+                    <subtitle>Season 2 Episode 15</subtitle>
+                    <description><![CDATA[<p>In "Young &amp; Earthquake," Sofia is depressed about her lack of job prospects, so Gabi takes her to a psychic to get a better idea of what the future holds. Sofia has serious doubts about Madame Paulette's abilities, while Gabi panics when she learns that Josh will pop the question and vows to avoid her boss's pending proposal. But when the fortune-teller accurately predicts an earthquake, it's clear she knows what she's talking about, so the girls go back for another reading. This time she promises them money, love and a bundle of joy, which looks like a possibility when Elliott and Alan ask Sofia a life-altering question. Meanwhile, Yolanda tries to help Josh conquer his fear of possible aftershocks with unfortunate results.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/206000/young-hungry-2x15-young-earthquake</link>
+                </event><event start="20:30" end="21:00">
+                    <title>Kevin From Work</title>
+                    <subtitle>Season 1 Episode 7</subtitle>
+                    <description><![CDATA[<p>Kevin learns that Julia has a secret bathroom at work and shares this discovery with Audrey. Elsewhere, Roxie finds herself in an awkward situation after she gives Patti advice.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203645/kevin-from-work-1x07-secrets-from-work</link>
+                </event>
+                </location><location name="NBC" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>America's Got Talent</title>
+                    <subtitle>Season 10 Episode 24</subtitle>
+                    <description><![CDATA[<p><span>A recap of Season 10's final performances.</span></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/210778/americas-got-talent-10x24-agt-performance-finale-recap</link>
+                </event><event start="21:00" end="23:00">
+                    <title>America's Got Talent</title>
+                    <subtitle>Season 10 Episode 25</subtitle>
+                    <description><![CDATA[<p>Exciting surprises and highlights of the final performances; the Season 10 winner is revealed; performances by special guests include Rachel Platten, Penn &amp; Teller, Yolanda Adams and the Harlem Gospel Choir, Terry Fator, Freelusion and Mat Franco.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/210779/americas-got-talent-10x25-finale-results</link>
+                </event><event start="00:35" end="01:35">
+                    <title>Late Night with Seth Meyers</title>
+                    <subtitle>Season 2015 Episode 115</subtitle>
+                    <description><![CDATA[<p>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's "Late Night" — home to A-list celebrity guests, memorable comedy and the best in musical talent.</p><p>As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/228319/late-night-with-seth-meyers-2015-09-16-elijah-wood-jess-glynne-abe-laboriel-jr</link>
+                </event>
+                </location><location name="FOX" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>MasterChef</title>
+                    <subtitle>Season 6 Episode 19</subtitle>
+                    <description><![CDATA[<p>In the next challenge, with a little help from a few other home cooks, the remaining three contestants will create dishes for 30 restaurant guests who serve an important role in the judges' culinary world. The home cook with the most number of votes will move on in the competition, while the remaining two home cooks will face the next pressure test, during which they must complete three classic MASTERCHEF dishes. The home cook with the best dishes will move on to the finals.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/210780/masterchef-6x19-team-gordon-ramsay</link>
+                </event><event start="21:00" end="22:00">
+                    <title>MasterChef</title>
+                    <subtitle>Season 6 Episode 20</subtitle>
+                    <description><![CDATA[<p>In the final challenge in the MASTERCHEF kitchen, the Top Two home cooks will have one last chance to prove to the judges that they deserve the MASTERCHEF title by creating a three-course meal. After evaluating the final dishes, the judges will reveal America's next MASTERCHEF, and the deserving home cook will walk away with a MASTERCHEF trophy, a book deal and the $250,000 grand prize.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/210781/masterchef-6x20-the-finale</link>
+                </event>
+                </location><location name="Headline News" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>Nancy Grace</title>
+                    <subtitle>Season 11 Episode 147</subtitle>
+                    <description><![CDATA[<p>"<strong>Nancy Grace</strong>" is television's only justice themed/interview/debate show for those interested in the breaking <strong>news</strong> of the day.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211217/nancy-grace-11x147-episode-147</link>
+                </event>
+                </location><location name="Discovery Family" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>The Surprising Lives of Billionaires</title>
+                    <subtitle>Season 1 Episode 3</subtitle>
+                    <description><![CDATA[<p>A look at the new 21st-century staff, which includes private pilots, publicists, art-consultants, personal assistants and super-tutors, all of whom cater to their every whim all while paid well into six figures themselves. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211382/the-surprising-lives-of-billionaires-1x03-working-for-a-billionaire</link>
+                </event>
+                </location><location name="TV One" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>Unsung</title>
+                    <subtitle>Season 9 Episode 11</subtitle>
+                    <description><![CDATA[<p><strong><em>"Unsung"</em></strong> is a documentary series that takes a look at some of the top R&amp;B and soul artists of the last several decades, many of whom are not household names. Narrated by actor Gary Anthony Williams, the NAACP Image Award-winning program features interviews with people who know the musicians well enough to tell th<span>e ups and downs of their careers. Episodes usually start with the story of an artist's upbringing before moving into the trials and tribulations faced as the subject searched for the big break early in his or her music career. The pinnacle of the performer's career plays out next, before a turning point that led to each one's career beginning a downward trend.</span></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211748/unsung-9x11-yoyo</link>
+                </event><event start="21:00" end="22:00">
+                    <title>Hollywood Divas</title>
+                    <subtitle>Season 2 Episode 10</subtitle>
+                    <description><![CDATA[<p><strong><em>"Hollywood Divas" </em></strong>is a spinoff of the R&amp;B Divas franchise. Hollywood Divas, will feature the lives of five women in Hollywood.</p><p>Former,The Parkers star and Actress Countess Vaughn, Former Girlfriends star and Actress Golden Brooks, Former Real Housewives of Atlanta star and Ed Hartwell's EX-Wife Lisa Wu, Actress Elise Neal and Actress Paula Jai Parker will all appear in this series.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211473/hollywood-divas-2x10-reunion-special-pt-2</link>
+                </event><event start="22:00" end="22:30">
+                    <title>Born Again Virgin</title>
+                    <subtitle>Season 1 Episode 9</subtitle>
+                    <description><![CDATA[<p>Jenna gets a job ghostwriting for one of her heroes; Tara tries to soften up Kelly's aggressive dating style.<br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203847/born-again-virgin-1x09-off-to-see-the-wizard</link>
+                </event><event start="22:30" end="23:00">
+                    <title>Born Again Virgin</title>
+                    <subtitle>Season 1 Episode 10</subtitle>
+                    <description><![CDATA[<p>Jenna's ex comes to visit; Kelly grows tired of being under appreciated at her job; Tara surprises everybody with a big announcement.<br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203846/born-again-virgin-1x10-tmf</link>
+                </event>
+                </location><location name="Bravo" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>Million Dollar Listing Los Angeles</title>
+                    <subtitle>Season 8 Episode 3</subtitle>
+                    <description><![CDATA[<p>Million Dollar Listing follows the lives of three of Los Angeles' hottest, young and aggressive real estate magnates in the making as they make a fortune selling multi-million dollar properties in the most exclusive neighborhoods – Hollywood, Malibu and Beverly Hills. The series follows these top agents over the course of nine months as their paths cross and they compete and expose the intense work that it takes to move the hottest listings in the City of Angels.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/224252/million-dollar-listing-los-angeles-8x03-the-upside-of-teardowns</link>
+                </event><event start="23:00" end="23:30">
+                    <title>Watch What Happens: Live</title>
+                    <subtitle>Season 12 Episode 144</subtitle>
+                    <description><![CDATA[<p>Andy Cohen's special guests tonight are Journalist David Gregory &amp; Joy Behar.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212969/watch-what-happens-live-12x144-journalist-david-gregory-joy-behar</link>
+                </event>
+                </location><location name="CBS" subtext="">
+                    <event start="20:00" end="21:00">
+                    <title>Big Brother</title>
+                    <subtitle>Season 17 Episode 38</subtitle>
+                    <description><![CDATA[<p>Episode #38 - TBA - Day #91</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/225495/big-brother-17x38-episode-38-tba-day-91</link>
+                </event><event start="23:35" end="00:37">
+                    <title>The Late Show with Stephen Colbert</title>
+                    <subtitle>Season 2015 Episode 7</subtitle>
+                    <description><![CDATA[<p>Actor Kevin Spacey; TV legend Carol Burnett with comics Abbi Jacobson and Ilana Glazer; Willie Nelson is interviewed and performs.<br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212231/the-late-show-with-stephen-colbert-2015-09-16-kevin-spacey-carol-burnett-abbi-jacobson-ilana-glazer-and-willie-nelson-is-interviewed-and-performs</link>
+                </event><event start="00:35" end="01:35">
+                    <title>The Late Late Show with James Corden</title>
+                    <subtitle>Season 2015 Episode 77</subtitle>
+                    <description><![CDATA[<p><i><em><strong>"The Late Late Show with James Corden"</strong></em></i> replaced the previous show that was hosted by Craig Ferguson in March of 2015.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/235056/the-late-late-show-with-james-corden-2015-09-16-chris-odonnell-emily-mortimer</link>
+                </event>
+                </location><location name="Destination America" subtext="">
+                    <event start="21:00" end="23:00">
+                    <title>iMPACT Wrestling</title>
+                    <subtitle>Season 12 Episode 37</subtitle>
+                    <description><![CDATA[<p>Originally known as <em>"TNA iMPACT!"</em> now known as <em>"</em><strong><em>iMPACT Wrestling"</em></strong> is 2 hours of fast paced, innovative, usually high flying, sometimes brutal pro-wrestling. Featuring a mix of stars you know and love and new, up and coming talent, it'll blow away the cobwebs and leave you wanting more.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203780/impact-wrestling-12x37-tba</link>
+                </event><event start="23:00" end="00:00">
+                    <title>Ring of Honor Wrestling on Destination America</title>
+                    <subtitle>Season 1 Episode 16</subtitle>
+                    <description><![CDATA[<p>The Kingdom with Maria Kanellis battle War Machine and Redragon; go to war with The House of Truth; Dalton Castle in action against Cedric Alexander.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203788/ring-of-honor-wrestling-on-destination-america-1x16-the-kingdom-with-maria-kannelis-vs-war-machine-redragon</link>
+                </event>
+                </location><location name="Investigation Discovery" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Swamp Murders</title>
+                    <subtitle>Season 3 Episode 6</subtitle>
+                    <description><![CDATA[<p>In Albany, N.Y., a young woman disappears after storming out of the house to find her wayward boyfriend, then her body is found on the banks of the Hudson River.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203838/swamp-murders-3x06-murder-on-the-hudson</link>
+                </event><event start="22:00" end="23:00">
+                    <title>Suspicion</title>
+                    <subtitle>Season 1 Episode 3</subtitle>
+                    <description><![CDATA[<p>It's human nature to question things - especially when your safety may be at risk - but when a grim suspicion turns into a horrid reality, it may be time to take things into your own hands. Investigation Discovery's (ID) new series <em><strong>"</strong></em><b><em><strong>SUSPICION"</strong></em></b> reveals the terrifying journeys of real people who suspected imminent danger and became fixated on finding the truth. From stalkers to criminal cover-ups and killers on the loose, the stories in SUSPICION start building suspense from the moment something feels amiss. Emotional first-person interviews detail the endless twists and turns that come with following a dangerous hunch, leaving viewers anxious to learn who the culprit is until the very end. Did I really just see that? Will anyone believe me? Am I imagining things? Can I trust anyone? Nothing is as it seems and everyone is a suspect.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211391/suspicion-1x03-cosy-cove-killings</link>
+                </event>
+                </location><location name="UP TV" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Ties That Bind</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p>Allison McLean (Kelli Williams) is a tough and experienced police detective in suburban Seattle. Like most working women, her hands are already full, balancing a demanding and dangerous job and a family — husband Matt (Jonathan Scarfe), and teenagers Jeff (Mitchell Kummen) and Rachel (Natasha Calis). But when she and her partner, Devin (Dion Johnstone), must arrest her brother, Tim (Luke Perry), for aggravated assault, her world drastically changes as Tim is convicted and sent to prison leaving his two teenagers Cameron (Rhys Matthew Bond) and Mariah (Matreya Scarrwener) teetering on the brink of foster care. Having done the right thing as an officer of the law, Allison now feels compelled to do the right thing as a sister and aunt; she brings Tim's two very unhappy teens into her home. Squeezing four teenagers under one roof proves to be an additional test of Allison's strength and patience. It won't be easy for her husband, her children or Tim's kids either. In addition to investigating local crimes, the UP Original Series <em><strong>"Ties That Bind"</strong></em> will also focus on the joys and struggles of the teens as they adjust to their new home, their new high school, make new friends and experience love, romance, anger and jealousy.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/205288/ties-that-bind-1x06-controlled-substance</link>
+                </event>
+                </location><location name="Lifetime" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Little Women: LA</title>
+                    <subtitle>Season 3 Episode 8</subtitle>
+                    <description><![CDATA[<p>Terra Jolé, Tonya Banks, Elena Gant, Christy McGinity Gibel, Traci Harrison Tsou and Briana Manson all return for the second season of "Little Women: LA," and the stakes are higher than ever. When a shocking baby announcement is made and there's a new little lady in town, the group's friendships are pushed to the limit. In each hour-long episode, viewers get a unique glimpse into the lives of these girlfriends as they wade through the ups and downs of life, supporting one another every step of the way as they prove, once again, that height is just a number.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/205981/little-women-la-3x08-no-pain-no-gain</link>
+                </event>
+                </location><location name="History" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>American Pickers</title>
+                    <subtitle>Season 7 Episode 33</subtitle>
+                    <description><![CDATA[<p>It's Frank vs. Mike in their biggest bet ever, and this time the stakes are personal. Will Frank keep his beard, or get himself a close shave?<br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211400/american-pickers-7x33-the-big-bet</link>
+                </event>
+                </location><location name="Esquire Network" subtext="">
+                    <event start="21:00" end="21:30">
+                    <title>Car Matchmaker</title>
+                    <subtitle>Season 2 Episode 13</subtitle>
+                    <description><![CDATA[<p>A cinematographer seeks a vehicle that will hold both collectible value and camera gear; Spike's suggestions include a 1976 Ford Bronco, a 1979 Mercedes-Benz 300TD wagon and a 1989 Jeep Grand Wagoneer.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211402/car-matchmaker-2x13-car-collecting-101</link>
+                </event>
+                </location><location name="Home &amp; Garden TV" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Buying and Selling with the Property Brothers</title>
+                    <subtitle>Season 4 Episode 7</subtitle>
+                    <description><![CDATA[<p>Join the Property Brothers, Drew and Jonathan Scott, as they help homeowners sell their current home and buy a new property in HGTV's new series, <strong><em>"</em></strong><i><strong>Buying and Selling with The Property Brothers"</strong></i>. Jonathan renovates the family's current home for a successful sale, while Drew checks out the best options for the family's new property. Drew then oversees the selling of the renovated home and the buying of a new house.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211450/buying-and-selling-with-the-property-brothers-4x07-this-couple-is-not-on-the-same-page-when-it-comes-to-finding-a-new-home</link>
+                </event>
+                </location><location name="SyFy" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Ghost Hunters</title>
+                    <subtitle>Season 10 Episode 4</subtitle>
+                    <description><![CDATA[<p>Contact between humans and spirits from the afterlife is not as far-fetched as is it seems. As the leader of The Atlantic Paranormal Society (TAPS), Jason Hawes has made it his life's mission to help anyone with questions pertaining to paranormal phenomena and ghost hunting.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211838/ghost-hunters-10x04-over-my-dead-body</link>
+                </event><event start="22:00" end="23:00">
+                    <title>Paranormal Witness</title>
+                    <subtitle>Season 4 Episode 4</subtitle>
+                    <description><![CDATA[<p>People relate true tales of supernatural hauntings and explanation-defying paranormal experiences, which are brought to life through recreations.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/221806/paranormal-witness-4x04-suzy-doll</link>
+                </event>
+                </location><location name="VH1" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Dating Naked: Playing For Keeps</title>
+                    <subtitle>Season 2 Episode 10</subtitle>
+                    <description><![CDATA[<p>These days we're supposed to be more "connected" than ever, but it's actually harder than ever to truly connect. Online dates, blind dates, and the latest in ridiculous dating apps all make it hard to see people for who they really are. Last Summer a new social experiment provided daters with a radical dating experience where before they bared their souls they bared everything else first. </p><p><i>Dating Naked: Playing For Keeps</i> is a 10-episode, one-hour series that explores the art of romance, free of preconceived notions, stereotypes – and clothes. Hosted by <b>Amy Paffrath</b>, <i><strong>"Dating Naked: Playing For Keeps</strong></i><strong>" </strong>is set on a romantic tropical island, BUT this time features two primary daters, <b>Kerri</b> and <b>Chris</b><strong>,</strong> as they search for love.</p><p>Each week, 2 new men and 2 new women will strip down for a shot at igniting a spark with our primary daters. At the end of each episode, Kerri and Chris will each pick the one person they connected with the most to be their "keeper", and ask them to remain on the island. As sexy new singles arrive every week, vying for the coveted "keeper" spots, initial connections will be put to the test and deeper feelings may begin to develop.</p><p>Can Kerri and Chris handle the competition? Or will temptation and jealousy run rampant on the island? When everyone has stripped away the artifices of the modern world and revealed their ultimate, honest selves, the results will be truly surprising.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/211863/dating-naked-playing-for-keeps-2x10-arrivals-and-departures</link>
+                </event><event start="22:00" end="23:00">
+                    <title>Twinning</title>
+                    <subtitle>Season 1 Episode 9</subtitle>
+                    <description><![CDATA[<p>"Twinning" is an arc'd competition series in which twelve sets of twins will go head to head for a grand prize of $222,222.22. But getting there won't be easy. Viewers will experience double the meltdowns, double the hook-ups, and, of course, double the twists when twin teams are pushed to their limits in unexpected ways.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/209156/twinning-1x09-twinwreck</link>
+                </event><event start="23:00" end="23:30">
+                    <title>Candidly Nicole</title>
+                    <subtitle>Season 2 Episode 8</subtitle>
+                    <description><![CDATA[<p>Creative Director, entrepreneur, philanthropist, writer, actress, mother… Born and raised in Los Angeles and having always been surrounded by music and costumes, Nicole developed an appreciation for fashion at an early age. She is the Creative Director of House of Harlow and Winter Kate and has developed these brands into full-fledged collections, offering ready-to-wear, jewelry, eyewear, footwear, and handbags and are available globally at high-end department and specialty stores. As a mentor on NBC's Fashion Star, she helps unknown designers for the chance to win a multi-million dollar prize to launch their own collection. In addition to dozens of TV credits, Richie founded The Richie-Madden Children's Foundation (RMCF) an organization that provides meaningful opportunities to children around the world. She also serves on the board of the Environmental Media Association, and supports other charities including The Young Musicians Fund, The Art of Elysium and The Race to Erase MS. She was recently honored by A Place Called Home for her philanthropic efforts. Richie currently resides in Los Angeles with her husband and two children.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/208001/candidly-nicole-2x08-nicole-richie-behind-the-music</link>
+                </event>
+                </location><location name="TLC" subtext="">
+                    <event start="21:00" end="21:30">
+                    <title>My Big Fat Fabulous Life</title>
+                    <subtitle>Season 2 Episode 3</subtitle>
+                    <description><![CDATA[<p>Whitney Thore was once a slender dancer, but over the course of just one year at college she gained 200 pounds due to a condition called Polycystic Ovarian Syndrome (PCOS). It took her a long time to deal with the change, but now she is happy with her body, and through her active social life and love of dancing, she lives vivaciously and holds nothing back. She keeps busy with her dance, and though she currently lives with her parents, she is mustering up the courage to strike out on her own as she approaches her 31st birthday.</p><p><i><em><strong>"My Big Fat Fabulous Life"</strong></em></i> focuses on Whitney's life, her one-of-a-kind family and her friends. Deep down, she is just an average girl from small town North Carolina trying to find her way in a world that judges people by their size.</p><p>Now 380 pounds, Whitney has a fresh outlook on life. She has learned to embrace her body and love herself again and urges others to do the same. Following the success of her "fat girl" dance videos, Whitney launched the #NoBodyShameCampaign, a movement that works to fight the devastating effects of body shame and promotes self-love and acceptance. The campaign encourages people to rise above the negativity that society imposes on anyone who is "different," and to live their lives to the fullest no matter what the scale says. The movement lives by the motto: "Love yourself. Live fully. No excuses. No shame."</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212654/my-big-fat-fabulous-life-2x03-7th-inning-splits</link>
+                </event><event start="21:30" end="22:00">
+                    <title>My Big Fat Fabulous Life</title>
+                    <subtitle>Season 2 Episode 4</subtitle>
+                    <description><![CDATA[<p>Whitney Thore was once a slender dancer, but over the course of just one year at college she gained 200 pounds due to a condition called Polycystic Ovarian Syndrome (PCOS). It took her a long time to deal with the change, but now she is happy with her body, and through her active social life and love of dancing, she lives vivaciously and holds nothing back. She keeps busy with her dance, and though she currently lives with her parents, she is mustering up the courage to strike out on her own as she approaches her 31st birthday.</p><p><i><em><strong>"My Big Fat Fabulous Life"</strong></em></i> focuses on Whitney's life, her one-of-a-kind family and her friends. Deep down, she is just an average girl from small town North Carolina trying to find her way in a world that judges people by their size.</p><p>Now 380 pounds, Whitney has a fresh outlook on life. She has learned to embrace her body and love herself again and urges others to do the same. Following the success of her "fat girl" dance videos, Whitney launched the #NoBodyShameCampaign, a movement that works to fight the devastating effects of body shame and promotes self-love and acceptance. The campaign encourages people to rise above the negativity that society imposes on anyone who is "different," and to live their lives to the fullest no matter what the scale says. The movement lives by the motto: "Love yourself. Live fully. No excuses. No shame."</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212655/my-big-fat-fabulous-life-2x04-a-home-of-her-own</link>
+                </event><event start="22:00" end="23:00">
+                    <title>Suddenly Royal</title>
+                    <subtitle>Season 1 Episode 2</subtitle>
+                    <description><![CDATA[<p>The family's first day on the Isle of Man reveals skeptical locals; the annual Tin Bath Race; Pam is introduced to Manx hospitality; Grace yearns for wifi.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212639/suddenly-royal-1x02-rub-a-dub-dub-one-king-in-a-tub</link>
+                </event>
+                </location><location name="Discovery Channel" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Airplane Repo</title>
+                    <subtitle>Season 3 Episode 10</subtitle>
+                    <description><![CDATA[<p>Kevin poses as an interviewer to gain access to a Westwind jet; Ken and Danny valet a car for a Cessna CJ3; Mike repossesses an air ambulance.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212983/airplane-repo-3x10-repo-911</link>
+                </event>
+                </location><location name="nicktoons" subtext="">
+                    <event start="21:00" end="21:30">
+                    <title>NFL Rush Zone</title>
+                    <subtitle>Season 4 Episode 2</subtitle>
+                    <description><![CDATA[<p>Ish and his family have relocated to Canton, Ohio, home of the Pro Football Hall of Fame, where Ish can learn more about his destiny as a Guardian. It seems that NFL Football is safe once again, until the emergence of a new master villain, Wild Card, who threatens to destroy not only the NFL, but the world itself. With the escalation of this conflict, Ish heightens his own training, skills, and powers, but will be joined by a new band of allies, who will become known as The League of Guardians on <strong><em>"The NFL Rush Zone"</em></strong>.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/215657/nfl-rush-zone-4x02-season-4-episode-2</link>
+                </event>
+                </location><location name="National Geographic Channel" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Drugs, Inc.</title>
+                    <subtitle>Season 7 Episode 1</subtitle>
+                    <description><![CDATA[<p>The culture of cocaine is deeply entrenched on Wall Street and some will pay more than its worth for the purest quality available. It's a buyer's market and dealers must compete to deliver first and close the sale, while keeping up with the changing Wall Street appetite. A new generation of brokers and traders are turning to a drug that keeps them performing at work. And police are coming down on a drug that they regard as Wall Street's dirty little secret — which is quickly turning into an epidemic.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/220067/drugs-inc-7x01-the-real-wolves-of-wall-street</link>
+                </event><event start="22:00" end="23:00">
+                    <title>Underworld, Inc.</title>
+                    <subtitle>Season 2 Episode 1</subtitle>
+                    <description><![CDATA[<p>Black market moonshine is big business — high-proof, low-cost, untaxed and illegal. But the law is cracking down and urban bootleggers are bringing fresh competition. It's the first day of the whiskey-making season for one expert moonshiner. Rosco needs two key elements for a successful and lucrative operation — secrecy and water. He's found the perfect hidden site deep in the traditional heart of moonshine production: the southern Appalachian Mountains. But 700 miles southwest, in Holmes County, Mississippi, there's a special police unit cracking down on 'shiners like Rosco.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/216866/underworld-inc-2x01-moonshine-mayhem</link>
+                </event>
+                </location><location name="PBS" subtext="">
+                    <event start="21:00" end="22:00">
+                    <title>Nova</title>
+                    <subtitle>Season 43 Episode 1</subtitle>
+                    <description><![CDATA[<p>NOVA revolves around a simple premise: the world of science is exciting! For NOVA viewers, science means adventure and exploration.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/222671/nova-43x01-dawn-of-humanity</link>
+                </event>
+                </location><location name="Disney XD" subtext="">
+                    <event start="21:30" end="22:00">
+                    <title>Gaming Show (In My Parents' Garage)</title>
+                    <subtitle>Season 1 Episode 2</subtitle>
+                    <description><![CDATA[<p>Ian invites NBA stars to play an old school game; Julia and Jesse's Pokemon rivalry reaches a new level.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212985/gaming-show-in-my-parents-garage-1x02-code-yellow</link>
+                </event>
+                </location><location name="Comedy Central" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>South Park</title>
+                    <subtitle>Season 19 Episode 1</subtitle>
+                    <description><![CDATA[<p>There is a new principal at the helm of South Park Elementary. He forces the boys to confront the damage they've done through their history of racism and unconscious bias.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/201455/south-park-19x01-stunning-and-brave</link>
+                </event><event start="22:30" end="23:00">
+                    <title>Moonbeam City</title>
+                    <subtitle>Season 1 Episode 1</subtitle>
+                    <description><![CDATA[<p>Incompetent yet stylish detective Dazzle Novak tries to take down a warlord, but gets distracted by the charms of an alluring singer with an unpronounceable name.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/204056/moonbeam-city-1x01-mall-hath-no-fury</link>
+                </event><event start="23:30" end="00:00">
+                    <title>The Nightly Show with Larry Wilmore</title>
+                    <subtitle>Season 2015 Episode 107</subtitle>
+                    <description><![CDATA[<p>Larry's special guests tonight are TBA.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/215664/the-nightly-show-with-larry-wilmore-2015-09-16-tba</link>
+                </event><event start="00:01" end="00:31">
+                    <title>@Midnight</title>
+                    <subtitle>Season 2015 Episode 116</subtitle>
+                    <description><![CDATA[<p><em><strong>"</strong></em><strong><em>@Midnight"</em> with </strong>Chris Hardwick leads three celebrity contestants down the ultimate Internet wormhole. Culling from the darkest recesses of social media, they compete to determine who has the funniest take on the day's pop culture.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/228338/midnight-2015-09-16-heather-anne-campbell-tba</link>
+                </event>
+                </location><location name="TVland" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>The Jim Gaffigan Show</title>
+                    <subtitle>Season 1 Episode 10</subtitle>
+                    <description><![CDATA[<p>Inspired by Jim Gaffigan's real life, The Jim Gaffigan Show explores one man's struggle to find a balance between fatherhood, stand-up comedy and an insatiable appetite. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/202879/the-jim-gaffigan-show-1x10-maria</link>
+                </event><event start="22:30" end="23:00">
+                    <title>Impastor</title>
+                    <subtitle>Season 1 Episode 10</subtitle>
+                    <description><![CDATA[<p>"Impastor" is a dark comedy from Christopher Vane ("Wings") starring Michael Rosenbaum as Buddy Dobbs, a slacker on the run from his gambling debt. Just when he's about to end his misery and jump off a bridge, a reverend shows up and talks him down. When the reverend slips off the bridge and falls to his death, he leaves Buddy with the unlikely opportunity to steal the man's identity and pose as the new gay pastor of a small, tight-knight town, leaving his bartender ex-girlfriend Leanne (Aimee Garcia) to clean up the huge mess he left behind. Buddy begins to settle into his new life as a pastor with the help of his preppy new assistant Dora (Sara Rue), alluring church treasurer Alexa (Mircea Monroe) and enthusiastic secretary Russell (Mike Kosinski) - but the church president, Alden Schmidt (David Rasche) senses that something isn't quite right. Curing sex crazed teenagers, stealing kids' weed and reading Bible scripture may not be a bad gig for Buddy after all. Only time will tell how long he can keep up the façade. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/185651/impastor-1x10-exodus</link>
+                </event><event start="23:00" end="23:30">
+                    <title>The Exes</title>
+                    <subtitle>Season 4 Episode 22</subtitle>
+                    <description><![CDATA[<p><i><b>"The Exes"</b></i> revolves around three divorced men, ladies man Phil (Donald Faison), homebody Haskell (Wayne Knight) and newly-single and needy Stuart (David Alan Basche). The men live together in an apartment across the hall from their divorce attorney, Holly (Kristen Johnston), who also happens to be their landlord. Holly avoids her own relationship and commitment issues by becoming immersed in the men's affairs as they put their lives back together and return to the dating scene.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/190124/the-exes-4x22-along-came-holly</link>
+                </event>
+                </location><location name="FXX" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>The League</title>
+                    <subtitle>Season 7 Episode 2</subtitle>
+                    <description><![CDATA[<p>Pete and Andre are not speaking to each other, everyone hates Andre's plan for a "theme" draft, everyone in the league agrees to do an auction draft which leads to huge problems. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203259/the-league-7x02-the-draft-of-innocence</link>
+                </event><event start="22:30" end="23:00">
+                    <title>You're the Worst</title>
+                    <subtitle>Season 2 Episode 2</subtitle>
+                    <description><![CDATA[<p>Gretchen, realizing she doesn't really have any adult belongings, takes the gang on a trip to the mall. Jimmy uses this opportunity to gain some writing inspiration. Meanwhile, a newly single Lindsay recruits a hesitant Edgar to help her pick up guys. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/202985/youre-the-worst-2x02-crevasses</link>
+                </event>
+                </location><location name="Food Network" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>Carnival Cravings with Anthony Anderson</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p>Anthony Anderson meets up with 500,000 of his friends at the Alameda County Fair in California to chow down on crazy carnival eats like a mac and cheese-stuffed burger and a lobster dog. He also throws on his chef hat and defies the ice cream gods by forming ice cream into spaghetti and whipping up a spaghetti and meatball sundae.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203731/carnival-cravings-with-anthony-anderson-1x06-lobster-dogs-and-so-cal-sundaes</link>
+                </event><event start="22:30" end="23:00">
+                    <title>Beach Eats USA</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p>Curtis Stone uncovers the beach spots tucked away from the beaten path and serving amazing food to those who know where to find it. There's saffron-infused mussels in Virginia, beef spring rolls filled with ooey, gooey cheese in a California hideaway, and pineapple pork chops grilled to perfection on a tiny island off South Carolina coast.<br /><br /></p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203854/beach-eats-usa-1x06-hidden-gems</link>
+                </event>
+                </location><location name="American Heroes Channel" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>Manhunt: Kill or Capture</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p>Crime boss James ``Whitey'' Bulger flees Boston to escape an impending arrest; state police, the FBI and U.S. marshals join forces for an international hunt.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203797/manhunt-kill-or-capture-1x06-whitey-bulger-boston-mob-king</link>
+                </event>
+                </location><location name="CNBC" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>Make Me a Millionaire Inventor</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p>A Puerto Rican resident's reinvention of an age-old hunting tool; a first-generation American looks to launch a sophisticated variation on the car window shade.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/203801/make-me-a-millionaire-inventor-1x06-reinventing-the-wheel</link>
+                </event>
+                </location><location name="Science" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>What Could Possibly Go Wrong?</title>
+                    <subtitle>Season 1 Episode 16</subtitle>
+                    <description><![CDATA[<p>The internet is filled with wild videos of people who have unwittingly put science to the test. They've wondered what would happen if they attached rockets to a skateboard. And if a concrete canoe can float. And how many leaf blowers it takes to power a homemade hovercraft. Many of these videos garner millions of views because their exploits have failed, often with hilarious consequences. Now, Science Channel is experimenting with some of the internet's most infamous video flubs.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/204830/what-could-possibly-go-wrong-1x16-motorcycle-chariots</link>
+                </event>
+                </location><location name="Great American Country" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>RV Nation</title>
+                    <subtitle>Season 2 Episode 9</subtitle>
+                    <description><![CDATA[<p>In <strong><em>"RV Nation"</em></strong> go behind the scenes to explore the design and construction process for the biggest, most elaborate recreational vehicles on the market. See how motor home distributors transform trailers into glamorous celebrity coaches.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/208226/rv-nation-2x09-fifth-wheeling</link>
+                </event><event start="22:30" end="23:00">
+                    <title>RV Nation</title>
+                    <subtitle>Season 2 Episode 10</subtitle>
+                    <description><![CDATA[<p>In <strong><em>"RV Nation"</em></strong> go behind the scenes to explore the design and construction process for the biggest, most elaborate recreational vehicles on the market. See how motor home distributors transform trailers into glamorous celebrity coaches.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/208227/rv-nation-2x10-redesigning-tradition</link>
+                </event>
+                </location><location name="Oxygen" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>Snapped: She Made Me Do It</title>
+                    <subtitle>Season 1 Episode 2</subtitle>
+                    <description><![CDATA[<p>A missing high school student turns up dead. Was this a high school prank gone wrong by two supposed friends, or a premeditated murder orchestrated by the school's Queen Bee?</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/212102/snapped-she-made-me-do-it-1x02-kinzie-noordman</link>
+                </event>
+                </location><location name="NBCSN" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>Mobsteel</title>
+                    <subtitle>Season 1 Episode 6</subtitle>
+                    <description><![CDATA[<p><strong><em>"</em></strong><em><strong>Mobsteel"</strong> </em>follows founder Adam Genei and his team of custom-car specialists, including his wife <strong>Pam</strong> <strong>Genei</strong>, as they restore vehicles ranging from the finest relics of the American automotive boom, to an old International Harvester Loadstar, and much more. <em>Mobsteel</em> is an existing custom-car shop that was founded more than 10 years ago, using vintage parts and Detroit steel to bring these ancient American cars back to life. In addition to Adam and Pam Genei, the <em>Mobsteel</em> team is comprised of Steve "Steve-O" Ryan (The Right Hand Man), Doug "Wheatbread" Hanes (The Builder), and Ron Coan (The Painter). </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/215504/mobsteel-1x06-big-man-little-cab</link>
+                </event>
+                </location><location name="truTV" subtext="">
+                    <event start="22:00" end="22:30">
+                    <title>The Carbonaro Effect</title>
+                    <subtitle>Season 2 Episode 7</subtitle>
+                    <description><![CDATA[<p>truTV's brand new series <strong><em>"The Carbonaro Effect"</em></strong> follows comic magician Michael Carbonaro as he uses his skills to trick, amaze and amuse an unsuspecting public. </p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/232834/the-carbonaro-effect-2x07-take-the-mirror</link>
+                </event>
+                </location><location name="NFL Network" subtext="">
+                    <event start="22:00" end="23:00">
+                    <title>Undrafted</title>
+                    <subtitle>Season 2 Episode 1</subtitle>
+                    <description><![CDATA[<p>Former college football players take one last shot at pursuing their dreams of playing in the NFL; the players try to balance life's challenges and pursue their football dreams.</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/236660/undrafted-2x01-season-2-episode-1</link>
+                </event>
+                </location><location name="DIY Network" subtext="">
+                    <event start="23:00" end="23:30">
+                    <title>American Rehab: Restoring Victoria</title>
+                    <subtitle>Season 1 Episode 3</subtitle>
+                    <description><![CDATA[]]></description>
+                    <link>http://www.tvmaze.com/episodes/215587/american-rehab-restoring-victoria-1x03-front-yard-facelift</link>
+                </event><event start="23:30" end="00:00">
+                    <title>American Rehab: Restoring Victoria</title>
+                    <subtitle>Season 1 Episode 4</subtitle>
+                    <description><![CDATA[]]></description>
+                    <link>http://www.tvmaze.com/episodes/215588/american-rehab-restoring-victoria-1x04-kitchen-collapse</link>
+                </event>
+                </location><location name="tbs" subtext="">
+                    <event start="23:00" end="00:00">
+                    <title>Conan</title>
+                    <subtitle>Season 2015 Episode 114</subtitle>
+                    <description><![CDATA[<p>The biggest celebrities, the hottest musical guests, the craziest sketches...and Andy Richter, to boot? Yes, some would say Conan O'Brien's talk show on TBS has MORE...</p>]]></description>
+                    <link>http://www.tvmaze.com/episodes/228314/conan-2015-09-16-david-oyelowo-asa-butterfield-jr-jr</link>
+                </event>
+                </location>
+            </timetable>

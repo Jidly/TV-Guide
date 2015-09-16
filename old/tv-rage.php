@@ -1,4 +1,5 @@
 <?php
+/* old code for parsing TVguide data from tvrage.com - since tvrage has been down for weeks now, I'm retiring this script and using a new provider */
 /* Globals */
 $showtext = "";
 $timetext = "";
